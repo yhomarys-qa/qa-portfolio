@@ -11,7 +11,5 @@
 
 ## ✅ Expected Result
 - Input is treated as plain text and not executed  
-- No matching results are displayed for invalid/malicious input  
 - A "No results found" message is shown (or equivalent)  
-- No system errors or unexpected behavior occur  
 - Application remains stable and secure  
