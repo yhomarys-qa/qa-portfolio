@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- System handles numeric input correctly  
-- Relevant results are displayed (if applicable)  
-- No errors occur  
+- No matching results are displayed  
+- A "No results found" message is shown  
