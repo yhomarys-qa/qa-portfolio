@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- User is not authenticated  
-- Access to the application is denied  
-- An error message is displayed indicating invalid credentials  
+
+An error message is displayed indicating invalid credentials  
