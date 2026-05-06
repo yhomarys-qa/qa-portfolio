@@ -4,12 +4,8 @@
 1. Open the application  
 2. Log in with valid credentials  
 3. Locate the search bar  
-
-4. Enter SQL-like input (e.g., "' OR 1=1 --")  
+4. Enter data in SQL format or in script format (e.g., "' OR 1=1 --", "<script>alert(1)</script>")  
 5. Press "Enter"  
-
-6. Enter script-like input (e.g., "<script>alert(1)</script>")  
-7. Press "Enter"  
 
 ---
 
