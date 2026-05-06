@@ -13,6 +13,5 @@
 ---
 
 ## ✅ Expected Result
-- User is successfully registered  
-- Security answer is saved in the account profile  
-- Security answer is available for account recovery process  
+
+User is successfully registered  
