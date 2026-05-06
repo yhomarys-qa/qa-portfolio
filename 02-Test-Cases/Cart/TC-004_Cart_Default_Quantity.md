@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the application  
 2. Log in with valid credentials  
-3. Add a product to the cart  
+3. Add one or more products to your cart 
 4. Navigate to the cart page  
 
 ---
