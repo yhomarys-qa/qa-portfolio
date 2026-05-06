@@ -9,5 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- Password is displayed in plain text  
-- Password visibility is toggled correctly  
+
+Password is displayed in plain text  
