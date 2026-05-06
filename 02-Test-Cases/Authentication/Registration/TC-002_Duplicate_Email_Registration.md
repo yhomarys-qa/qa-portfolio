@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- Registration is rejected  
-- Error message is displayed indicating the email already exists  
-- User account is not created  
+
+Error message is displayed indicating the email already exists  
