@@ -6,7 +6,7 @@
 3. Add a product to the cart  
 4. Navigate to the cart page  
 5. Increase the product quantity (e.g., from 1 to 2)  
-6. Decrease the product quantity (if applicable)  
+6. Decrease the product quantity
 
 ---
 
