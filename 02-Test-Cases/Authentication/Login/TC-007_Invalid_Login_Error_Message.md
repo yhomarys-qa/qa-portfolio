@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- Validation message "Invalid email or password" is displayed  
-- User is not authenticated  
-- Access to the application is denied  
+
+Validation message "Invalid email or password" is displayed  
