@@ -6,12 +6,13 @@
 3. Add a product to the cart  
 4. Navigate to the cart page  
 5. Click on "Checkout"  
+6. Observe the address selection section  
 
 ---
 
 ## ✅ Expected Result
 - "Select an address" page is displayed  
+- Address section is visible  
 - Existing addresses (if available) are listed  
 - "Add Address" button is visible  
-- User can select or add an address  
-- No UI issues or errors are present  
+- UI elements are properly aligned and functional  
