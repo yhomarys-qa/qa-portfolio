@@ -5,7 +5,7 @@
 2. Log in with valid credentials  
 3. Navigate to the Product Catalog page  
 4. Select any product  
-5. Click on "Add to Basket" 
+5. Click the "Add to cart" button 
 
 ---
 
