@@ -11,5 +11,4 @@
 
 ## ✅ Expected Result
 - Button responds visually to interaction (hover/click)  
-- Button is not disabled  
 - Click action is accepted by the system  
