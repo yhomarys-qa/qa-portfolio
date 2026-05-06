@@ -8,5 +8,5 @@
 ---
 
 ## ✅ Expected Result
-- User is redirected to the Registration form  
-- Registration page is displayed correctly  
+
+User is redirected to the Registration form  
