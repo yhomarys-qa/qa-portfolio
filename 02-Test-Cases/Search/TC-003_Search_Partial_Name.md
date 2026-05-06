@@ -12,10 +12,3 @@
 ## ✅ Expected Result
 - Products containing the partial search term are displayed  
 - Results include all relevant matches  
-- No unrelated products are shown  
-
----
-
-## 📝 Notes
-- If partial search is not supported, the system may return no results  
-- In such case, behavior should be consistent and no errors should occur  
