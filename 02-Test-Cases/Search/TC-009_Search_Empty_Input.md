@@ -11,5 +11,4 @@
 
 ## ✅ Expected Result
 - System does not perform invalid search  
-- Either full product list is displayed or no action occurs  
-- No error message or crash occurs  
+- The complete product list is displayed, and no action is taken
