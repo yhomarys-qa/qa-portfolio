@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- Relevant products matching the search term are displayed  
+
 - Results correspond to the entered product name  
-- No unrelated products are shown  
