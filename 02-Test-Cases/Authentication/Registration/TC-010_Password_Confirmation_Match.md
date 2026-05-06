@@ -12,6 +12,5 @@
 ---
 
 ## ✅ Expected Result
-- Registration is rejected  
-- System displays a validation message indicating passwords do not match  
-- User account is not created  
+ 
+System displays a validation message indicating passwords do not match   
