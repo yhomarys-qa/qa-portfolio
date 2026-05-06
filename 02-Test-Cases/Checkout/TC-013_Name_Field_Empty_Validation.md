@@ -1,10 +1,11 @@
 # TC-013 – Verify Name field validation when left empty
 
 ## 🧪 Test Steps
-1. Open Add New Address form  
-2. Leave "Name" field empty  
-3. Fill all other required fields  
-4. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name (e.g., "Brazil")
+3. Leave "Name" field empty  
+4. Fill all other required fields  
+5. Click on "Submit"  
 
 ---
 
