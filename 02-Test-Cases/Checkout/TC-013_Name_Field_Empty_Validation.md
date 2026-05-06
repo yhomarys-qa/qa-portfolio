@@ -11,4 +11,3 @@
 ## ✅ Expected Result
 - "Name" field is highlighted in red  
 - Validation message is displayed (e.g., "Please provide a name")  
-- Form is not submitted  
