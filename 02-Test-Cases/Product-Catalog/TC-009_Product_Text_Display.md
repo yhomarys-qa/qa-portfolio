@@ -11,4 +11,3 @@
 ## ✅ Expected Result
 - Product names are readable and properly formatted  
 - Prices are displayed clearly and consistently  
-- No text truncation or formatting issues are present  
