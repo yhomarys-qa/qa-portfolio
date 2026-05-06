@@ -20,5 +20,3 @@
   - Address  
   - City  
   - State  
-- Form layout is correctly rendered  
-- No UI issues occur  
