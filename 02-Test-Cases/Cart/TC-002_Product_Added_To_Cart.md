@@ -11,8 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- Selected product is displayed in the cart  
-- Product details (name, price) are correctly shown  
-- Quantity is set to 1 by default  
-- Cart icon reflects the added item  
-- No errors occur during the process  
+
+The selected product is displayed in the cart  
