@@ -9,6 +9,6 @@
 ---
 
 ## ✅ Expected Result
-- Product details page or modal is displayed  
-- Product information is visible (name, description, price, image)  
-- Product details correspond to the selected item  
+
+Product information is visible (name, description, price, image)  
+ 
