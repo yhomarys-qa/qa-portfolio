@@ -2,8 +2,9 @@
 
 ## 🧪 Test Steps
 1. Open Add New Address form  
-2. Enter numeric value in Country field (e.g., 12345)  
-3. Click on "Submit"  
+2. Enter numeric value in Country field (e.g., 12345)
+3. Fill all other required fields  
+4. Click on "Submit"  
 
 ---
 
