@@ -10,5 +10,6 @@
 ---
 
 ## ✅ Expected Result
-
-User is redirected to the checkout page  
+- User is redirected to the checkout page  
+- "Select an address" page is displayed  
+- No errors occur during navigation  
