@@ -9,6 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- "Checkout" button is visible  
-- Button is enabled and clickable  
-- No UI issues are present  
+
+"Checkout" button is visible   
