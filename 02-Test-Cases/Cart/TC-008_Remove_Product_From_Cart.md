@@ -10,8 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- Selected product is removed from the cart  
-- Product no longer appears in the cart list  
-- Cart total is updated accordingly  
-- Cart icon is updated (if applicable)  
-- No errors occur during the removal process  
+
+Selected product is removed from the cart  
