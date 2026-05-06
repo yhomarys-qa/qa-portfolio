@@ -11,8 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- Cart displays an empty state message (e.g., "Your basket is empty")  
-- No products are listed in the cart  
-- Cart total is zero or not displayed  
-- UI layout remains consistent and user-friendly  
-- No errors or broken elements are displayed  
+
+Cart displays an empty state message (e.g., "Your basket is empty")  
