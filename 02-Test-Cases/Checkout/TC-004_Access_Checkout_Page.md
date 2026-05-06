@@ -10,5 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- User is redirected to the checkout page  
-- "Select an address" page is displayed  
+
+User is redirected to the checkout page  
