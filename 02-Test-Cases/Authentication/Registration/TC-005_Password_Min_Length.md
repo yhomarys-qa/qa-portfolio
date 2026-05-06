@@ -11,6 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- Registration is rejected  
-- System displays a validation message indicating password must meet minimum length requirement  
-- User account is not created  
+
+System displays a validation message indicating password must meet minimum length requirement  
