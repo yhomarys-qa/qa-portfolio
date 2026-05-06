@@ -9,7 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- Products are displayed in a consistent grid layout  
-- Each product card is properly aligned  
-- Images are correctly loaded (no broken images)  
-- Text elements (name, price) are readable and well formatted  
+
+Products are displayed in a consistent grid layout  
