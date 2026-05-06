@@ -3,10 +3,11 @@
 ## 🧪 Test Steps
 1. Open the application  
 2. Log in with valid credentials  
-3. Navigate to the cart page without adding any products  
-4. Add a product to the cart  
-5. Remove the product from the cart  
-6. Observe the cart page  
+3. Navigate to the cart page without adding any products
+4. Navigate to the Product Catalog page   
+5. Add a product to the cart  
+6. Remove the product from the cart  
+7. Observe the cart page  
 
 ---
 
