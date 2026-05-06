@@ -8,5 +8,6 @@
 ---
 
 ## ✅ Expected Result
-- Cart icon reflects the added item  
-- Item count is updated correctly  
+- Cart icon item count increases accordingly  
+- The number displayed matches the quantity of items added  
+- Icon visually updates without delay  
