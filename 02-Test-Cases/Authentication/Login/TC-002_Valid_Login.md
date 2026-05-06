@@ -11,5 +11,3 @@
 
 ## ✅ Expected Result
 - User is successfully authenticated  
-- User is redirected to the Product Catalog page  
-- No error message is displayed  
