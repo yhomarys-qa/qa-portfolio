@@ -10,4 +10,3 @@
 ## ✅ Expected Result
 - System rejects numeric input  
 - Validation error message is displayed  
-- Field is marked as invalid  
