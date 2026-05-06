@@ -13,5 +13,3 @@
 ## ✅ Expected Result
 - Address form page/modal is opened  
 - All required input fields are displayed  
-- User can start entering address details  
-- No errors occur during navigation  
