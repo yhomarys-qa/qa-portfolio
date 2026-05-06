@@ -9,4 +9,3 @@
 
 ## ✅ Expected Result
 - Full name is accepted  
-- No validation errors occur  
