@@ -10,6 +10,8 @@
 ---
 
 ## ✅ Expected Result
-- System handles input without crashing  
-- Search executes or safely returns no results  
-- No performance issues or UI breakage occur  
+- System handles long input without crashing or slowing down  
+- Search is processed normally  
+- No matching results are displayed  
+- A "No results found" message is shown  
+- Application remains stable and responsive  
