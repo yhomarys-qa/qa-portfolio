@@ -11,7 +11,4 @@
 
 ## ✅ Expected Result
 - Product quantity increases correctly  
-- Total price is updated based on the new quantity  
-- Changes are reflected immediately  
 - Cart icon updates accordingly (if applicable)  
-- No errors occur during the update    
