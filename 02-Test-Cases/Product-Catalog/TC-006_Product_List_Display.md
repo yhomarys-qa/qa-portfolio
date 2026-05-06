@@ -1,15 +1,15 @@
-# TC-006 – Verify product list display
+# TC-006 – Verify product list layout and UI consistency
 
 ## 🧪 Test Steps
 1. Open the application  
 2. Log in with valid credentials  
 3. Navigate to the Product Catalog page  
-4. Observe the list of products displayed  
+4. Observe the product grid layout  
 
 ---
 
 ## ✅ Expected Result
-- Product list is displayed correctly  
-- Each product shows name, image, and price  
-- Layout is consistent and properly aligned  
-- No broken images or missing information are present  
+- Products are displayed in a consistent grid layout  
+- Each product card is properly aligned  
+- Images are correctly loaded (no broken images)  
+- Text elements (name, price) are readable and well formatted  
