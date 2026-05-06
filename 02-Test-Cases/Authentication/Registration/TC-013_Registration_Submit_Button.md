@@ -11,4 +11,3 @@
 ## ✅ Expected Result
 - User account is successfully created  
 - User is redirected to the appropriate page (Login or Home page)  
-- No validation errors are displayed  
