@@ -10,4 +10,3 @@
 ## ✅ Expected Result
 - "Checkout" button is not visible or is disabled  
 - User cannot proceed to checkout  
-- No UI issues are present  
