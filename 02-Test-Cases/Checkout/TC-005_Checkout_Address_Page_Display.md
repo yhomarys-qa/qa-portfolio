@@ -11,8 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- "Select an address" page is displayed  
-- Address section is visible  
-- Existing addresses (if available) are listed  
-- "Add Address" button is visible  
-- UI elements are properly aligned and functional  
+
+"Select an address" page is displayed  
