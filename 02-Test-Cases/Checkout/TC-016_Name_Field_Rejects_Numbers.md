@@ -12,4 +12,3 @@
 ## ✅ Expected Result
 - Numeric input is rejected  
 - Validation message is displayed  
-- Field is marked as invalid  
