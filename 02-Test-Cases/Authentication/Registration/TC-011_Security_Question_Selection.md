@@ -13,6 +13,6 @@
 ---
 
 ## ✅ Expected Result
-- User is successfully registered  
+ 
 - Security question is saved in the account profile  
 - Security question is available for account recovery process  
