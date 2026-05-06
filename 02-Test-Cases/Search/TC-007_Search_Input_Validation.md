@@ -11,5 +11,5 @@
 
 ## ✅ Expected Result
 - Input is treated as plain text and not executed  
-- A "No results found" message is shown (or equivalent)  
+- A "No results found" message is shown 
 - Application remains stable and secure  
