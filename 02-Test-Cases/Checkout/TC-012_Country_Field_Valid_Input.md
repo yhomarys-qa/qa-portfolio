@@ -5,7 +5,7 @@
 2. Enter a valid country name (e.g., "Brazil")
 3. Fill all other required fields correctly  
 4. Click on "Submit".
-5. 
+
 ---
 
 ## ✅ Expected Result
