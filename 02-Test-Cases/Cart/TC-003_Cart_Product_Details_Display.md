@@ -11,4 +11,3 @@
 ## ✅ Expected Result
 - Product name is displayed correctly  
 - Product price is displayed correctly  
-- Product information matches the selected item  
