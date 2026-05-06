@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- No products are displayed  
-- A message indicating no results is shown (e.g., "No results found")  
-- No errors or crashes occur  
+ 
+A message indicating no results is shown (e.g., "No results found")  
