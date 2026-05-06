@@ -9,6 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- Product list is updated based on the selected tag  
-- Only products associated with the selected tag are displayed  
-- No unrelated products are shown  
+
+Product list is updated based on the selected tag  
