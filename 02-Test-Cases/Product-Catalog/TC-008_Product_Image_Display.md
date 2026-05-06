@@ -9,5 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- All product images are loaded correctly  
-- No broken or missing images are displayed  
+
+All product images are loaded correctly  
