@@ -10,4 +10,3 @@
 ## ✅ Expected Result
 - User is redirected to the cart page  
 - Cart page is displayed correctly  
-- No errors occur during navigation  
