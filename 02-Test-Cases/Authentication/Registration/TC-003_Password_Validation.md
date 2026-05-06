@@ -1,0 +1,17 @@
+# TC-003 – Verify registration with valid password
+
+## 🧪 Test Steps
+1. Open the application  
+2. Navigate to the Registration page  
+3. Enter a valid email address  
+4. Enter a valid password that meets system requirements  
+5. Confirm the password (if applicable)  
+6. Fill in other required fields  
+7. Click on "Register"  
+
+---
+
+## ✅ Expected Result
+- User is successfully registered  
+- Password is accepted by the system  
+- No validation errors are displayed  
