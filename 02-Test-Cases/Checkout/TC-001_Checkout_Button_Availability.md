@@ -10,6 +10,3 @@
 
 ## ✅ Expected Result
 - "Checkout" button is visible when at least one product is in the cart  
-- Button is enabled and clickable  
-- No UI issues are present  
-"Checkout" button is visible   
