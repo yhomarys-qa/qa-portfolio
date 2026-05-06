@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- User is redirected to the checkout page  
-- Checkout page loads successfully  
-- No errors occur during navigation  
+
+User is redirected to the checkout page  
