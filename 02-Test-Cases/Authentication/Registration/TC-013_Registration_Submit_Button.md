@@ -10,4 +10,4 @@
 
 ## ✅ Expected Result
 - User account is successfully created  
-- The user is redirected to the page (login page or home page)  
+- The user is redirected to the page (login or home)  
