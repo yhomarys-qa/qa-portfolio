@@ -10,5 +10,8 @@
 ---
 
 ## ✅ Expected Result
-- Search state is either preserved or reset consistently  
-- Behavior is predictable and user-friendly  
+- Search state is reset after navigating to another page  
+- Product Catalog is displayed in its default state  
+- Search field is cleared  
+- Behavior is consistent and does not cause confusion  
+- No errors or unexpected behavior occur  
