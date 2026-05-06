@@ -1,10 +1,11 @@
 # TC-012 – Verify Country field accepts valid alphabetic input
 
 ## 🧪 Test Steps
-1. Enter a valid country name (e.g., "Brazil")  
-2. Fill all other required fields correctly  
-3. Click on "Submit"  
-
+1. Open Add New Address form
+2. Enter a valid country name (e.g., "Brazil")
+3. Fill all other required fields correctly  
+4. Click on "Submit".
+5. 
 ---
 
 ## ✅ Expected Result
