@@ -1,4 +1,4 @@
-# TC-007 – Verify "Add Address" button opens address form
+# TC-007 – Verify "Add Address" button is clickable
 
 ## 🧪 Test Steps
 1. Open the application  
@@ -11,5 +11,6 @@
 ---
 
 ## ✅ Expected Result
-- Address form page/modal is opened  
-- All required input fields are displayed  
+- Button is enabled and clickable  
+- Clicking the button triggers navigation to address form  
+- No UI lag or errors occur during click  
