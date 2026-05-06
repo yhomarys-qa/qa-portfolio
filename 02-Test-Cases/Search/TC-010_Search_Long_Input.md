@@ -10,8 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- System handles long input without crashing or slowing down  
-- Search is processed normally  
 - No matching results are displayed  
 - A "No results found" message is shown  
-- Application remains stable and responsive  
