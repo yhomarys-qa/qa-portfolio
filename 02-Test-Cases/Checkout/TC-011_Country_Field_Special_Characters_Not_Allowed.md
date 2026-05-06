@@ -12,4 +12,3 @@
 ## ✅ Expected Result
 - Special characters are rejected  
 - Error message is displayed  
-- Field is highlighted in red  
