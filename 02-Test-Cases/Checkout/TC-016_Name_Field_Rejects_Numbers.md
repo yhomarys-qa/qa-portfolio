@@ -2,9 +2,9 @@
 
 ## 🧪 Test Steps
 1. Open Add New Address form
-2. Enter a valid country name (e.g., "Brazil")
+2. Enter a valid country name 
 3. Enter numeric value in Name field (e.g., "12345")
-4. Fill all other fields correctly  
+4. Fill all other required fields  
 5. Click on "Submit"
 
 ---
