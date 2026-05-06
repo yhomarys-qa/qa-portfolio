@@ -11,6 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- User is successfully registered  
-- Password is accepted by the system  
-- No validation errors are displayed  
+
+User is successfully registered  
