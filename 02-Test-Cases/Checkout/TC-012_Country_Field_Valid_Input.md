@@ -10,5 +10,4 @@
 
 ## ✅ Expected Result
 - Input is accepted  
-- No validation errors are shown  
-- Field remains valid (no red highlight)  
+- Field remains valid 
