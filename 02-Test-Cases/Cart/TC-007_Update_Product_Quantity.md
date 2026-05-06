@@ -11,5 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- Product quantity is updated correctly  
-- Total price is recalculated based on quantity  
+
+Product quantity is updated correctly  
