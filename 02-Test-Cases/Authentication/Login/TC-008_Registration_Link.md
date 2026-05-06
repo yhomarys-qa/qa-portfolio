@@ -1,4 +1,4 @@
-# TC-009 – Verify navigation to Registration form
+# TC-008 – Verify navigation to Registration form
 
 ## 🧪 Test Steps
 1. Open the application  
