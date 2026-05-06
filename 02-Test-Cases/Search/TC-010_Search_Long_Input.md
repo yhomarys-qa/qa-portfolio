@@ -4,7 +4,7 @@
 1. Open the application  
 2. Log in with valid credentials  
 3. Locate the search bar  
-4. Enter a very long string (e.g., 200+ characters)  
+4. Enter a very long string (e.g., 20+ characters)  
 5. Press "Enter"  
 
 ---
