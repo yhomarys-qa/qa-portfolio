@@ -11,7 +11,4 @@
 
 ## ✅ Expected Result
 - Product quantity decreases correctly  
-- Total price is updated accordingly  
 - Quantity does not go below the minimum allowed (e.g., 1)  
-- Changes are reflected immediately  
-- No errors occur during the update  
