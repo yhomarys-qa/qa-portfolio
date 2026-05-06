@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- User is successfully registered  
-- Account is created without errors  
-- User is redirected to the appropriate page (e.g., login or home page)  
+
+User is successfully registered  
