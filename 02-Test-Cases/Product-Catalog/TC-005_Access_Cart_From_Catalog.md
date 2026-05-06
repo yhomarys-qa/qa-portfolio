@@ -9,6 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- User is redirected to the cart page  
-- Cart page is displayed correctly  
-- Previously added products (if any) are visible in the cart  
+
+User is redirected to the cart page  
