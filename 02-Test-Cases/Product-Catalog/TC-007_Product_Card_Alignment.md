@@ -11,4 +11,3 @@
 ## ✅ Expected Result
 - Each product card is properly aligned  
 - Layout is consistent across rows and columns  
-- No overlapping or misaligned elements are present  
