@@ -11,6 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- Registration is rejected  
-- System displays a validation message indicating password must contain at least one uppercase letter  
-- User account is not created  
+
+System displays a validation message indicating password must contain at least one uppercase letter  
