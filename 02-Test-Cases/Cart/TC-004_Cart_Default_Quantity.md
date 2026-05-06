@@ -9,5 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- Product quantity is set to 1 by default  
-- Quantity is correctly displayed  
+- Product quantity is set to 1 by default upon adding to cart  
+- No user interaction is required for initial quantity  
