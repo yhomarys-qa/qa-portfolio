@@ -12,4 +12,3 @@
 ## ✅ Expected Result
 - Country field is highlighted in red  
 - Error message "Please provide a country" is displayed  
-- Form is not submitted  
