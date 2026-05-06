@@ -1,4 +1,4 @@
-# TC-013 – The user can access the login screen by clicking the [Register] button
+# TC-013 – Access the login screen by clicking the [Register] button.
 
 ## 🧪 Test Steps
 1. Open the application  
