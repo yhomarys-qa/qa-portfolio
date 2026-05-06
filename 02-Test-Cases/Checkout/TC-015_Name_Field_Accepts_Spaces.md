@@ -2,9 +2,10 @@
 
 ## 🧪 Test Steps
 1. Open Add New Address form
-2. Enter full name with spaces (e.g., "Maria Silva")
-3. Fill all other fields correctly  
-4. Click on "Submit". 
+2. Enter a valid country name (e.g., "Brazil")
+3. Enter full name with spaces (e.g., "Maria Silva")
+4. Fill all other fields correctly  
+5. Click on "Submit". 
 
 ---
 
