@@ -5,7 +5,7 @@
 2. Navigate to the Registration page  
 3. Enter a valid email address  
 4. Enter a valid password and confirm it  
-5. Select a security question from the available options  
+5. Enter the same password in the "Repeat Password" field  
 6. Provide an answer to the selected security question  
 7. Fill in other required fields  
 8. Click on "Register"  
