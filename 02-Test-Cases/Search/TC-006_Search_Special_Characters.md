@@ -10,7 +10,7 @@
 ---
 
 ## ✅ Expected Result
-- System handles input without errors or crashes  
-- No unexpected behavior occurs  
-- Results are either empty or handled appropriately  
-- Application remains stable and responsive  
+- No matching products are displayed  
+- A "No results found" message is shown (or equivalent)  
+- System does not crash or display errors  
+- Input is handled safely without unexpected behavior  
