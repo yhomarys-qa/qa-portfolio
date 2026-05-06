@@ -2,11 +2,10 @@
 
 ## 🧪 Test Steps
 1. Open the application  
-2. Navigate to the Registration page  
+2. Navigate to the registration page  
 3. Enter a valid email address  
-4. Enter a valid password  
-5. Confirm the password (if applicable)  
-6. Click on "Register"  
+4. Fill in all required fields  
+5. Click on "Register"  
 
 ---
 
