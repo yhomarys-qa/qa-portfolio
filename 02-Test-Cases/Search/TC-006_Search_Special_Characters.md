@@ -12,5 +12,3 @@
 ## ✅ Expected Result
 - No matching products are displayed  
 - A "No results found" message is shown (or equivalent)  
-- System does not crash or display errors  
-- Input is handled safely without unexpected behavior  
