@@ -14,5 +14,3 @@
 ## ✅ Expected Result
 - Total price is correctly calculated as (unit price × quantity)  
 - Updated total is displayed immediately after quantity change  
-- No discrepancies between expected and displayed total  
-- No errors occur during calculation  
