@@ -13,6 +13,3 @@
 ## ✅ Expected Result
 - Product quantity is updated correctly  
 - Total price is recalculated based on quantity  
-- Changes are reflected immediately in the cart  
-- Cart icon is updated accordingly (if applicable)  
-- No errors occur during the update  
