@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- Selected product is added to the shopping cart  
-- Cart icon is updated with the correct item count  
-- No error message is displayed  
+
+The selected product is added to the shopping cart
