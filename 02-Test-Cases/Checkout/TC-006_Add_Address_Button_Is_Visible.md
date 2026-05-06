@@ -11,6 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- "Add Address" button is visible on the page  
-- Button is properly displayed in the UI  
-- No layout or rendering issues occur  
+
+"Add Address" button is visible on the page  
