@@ -1,4 +1,4 @@
-# TC-001 – Verify Checkout button availability in cart
+# TC-001 – Verify Checkout button is visible when cart has products
 
 ## 🧪 Test Steps
 1. Open the application  
@@ -9,5 +9,7 @@
 ---
 
 ## ✅ Expected Result
-
+- "Checkout" button is visible when at least one product is in the cart  
+- Button is enabled and clickable  
+- No UI issues are present  
 "Checkout" button is visible   
