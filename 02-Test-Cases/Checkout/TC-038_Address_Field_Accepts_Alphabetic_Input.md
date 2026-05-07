@@ -16,4 +16,3 @@
 
 - Alphabetic input is accepted in the Address field  
 - No validation error message is displayed  
-- Form submission proceeds successfully  
