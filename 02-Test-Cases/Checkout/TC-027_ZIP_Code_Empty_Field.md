@@ -11,6 +11,6 @@
 
 ---
 
-## ❌ Expected Result
+## ✅ Expected Result
 - Error message displayed: "Por favor informe um código postal"  
 - Field highlighted in red  
