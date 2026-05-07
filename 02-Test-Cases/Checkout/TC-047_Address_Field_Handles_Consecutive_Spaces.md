@@ -18,4 +18,3 @@
 - Address input is either:
   - normalized automatically, or
   - accepted without causing formatting or validation issues  
-- No unexpected behavior occurs during form submission  
