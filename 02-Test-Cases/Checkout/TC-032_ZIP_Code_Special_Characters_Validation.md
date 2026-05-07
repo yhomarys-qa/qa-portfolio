@@ -1,4 +1,4 @@
-# TC-055 – Verify ZIP Code rejects special characters input
+# TC-032 – Verify ZIP Code rejects special characters input
 
 ## 🧪 Test Steps
 1. Open Add New Address form
