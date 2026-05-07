@@ -1,11 +1,13 @@
 # TC-031 – Verify ZIP Code rejects letters-only and special characters input
 
 ## 🧪 Test Steps
-1. Open Add New Address form  
-2. Locate the "ZIP Code" field  
-3. Enter letters only (e.g., ABCDEF)  
-4. Enter special characters (e.g., @#$%&*)  
-5. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name
+3. Enter a valid name
+4. Enter a valid mobile phone number
+5. Enter an alphanumeric value in the ZIP Code field (e.g., A1B2C3 or 123ABC)   
+6. Fill all other required fields  
+7. Click on "Submit"
 
 ---
 
