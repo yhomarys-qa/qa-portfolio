@@ -13,4 +13,4 @@
 
 ## ✅ Expected Result
 - Validation error message is displayed  
-- Field is highlighted in red (if UI validation is applied)  
+- Field is highlighted in red 
