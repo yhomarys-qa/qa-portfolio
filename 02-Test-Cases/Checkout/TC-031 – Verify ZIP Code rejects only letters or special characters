@@ -9,7 +9,7 @@
 
 ---
 
-## ❌ Expected Result
+## ✅ Expected Result
 - Letters-only input is rejected  
 - Special characters are rejected  
 - Validation message is displayed (e.g., "Invalid ZIP Code format")  
