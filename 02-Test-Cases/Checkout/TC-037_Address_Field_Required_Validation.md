@@ -5,7 +5,7 @@
 2. Fill all required fields with valid data except Address  
 3. Leave the "Address" field empty  
 4. Click on "Submit"  
-
+Enter a valid ZIP code.
 ---
 
 ## ✅ Expected Result
