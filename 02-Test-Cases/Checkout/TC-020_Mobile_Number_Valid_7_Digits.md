@@ -4,7 +4,7 @@
 1. Open Add New Address form
 2. Enter a valid country name  
 3. Enter a valid name 
-4. Enter 7-digit number (e.g., 1234567)  
+4. Enter a 7-digit number in the "Mobile number" field (e.g., 1234567)  
 5. Fill all other required fields
 6. Click on "Submit"
 
