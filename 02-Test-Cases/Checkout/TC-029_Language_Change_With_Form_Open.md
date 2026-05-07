@@ -4,7 +4,7 @@
 1. Open Add New Address form
 2. Enter a valid country name (e.g., Brazil)  
 3. Enter a valid name (e.g., John Doe)  
-4. Enter a valid mobile phone number
+4. Enter a valid mobile phone number (e.g., 4187745635)
 5. Enter a valid ZIP Code (e.g., 12345-678) 
 6. Change language using the language selector (top navigation)
 7. Observe the form behavior
