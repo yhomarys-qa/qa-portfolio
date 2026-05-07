@@ -12,4 +12,5 @@
 
 ## ✅ Expected Result
 - Error message is displayed  
-- Message: "O número de celular deve corresponder ao formato 1000000-9999999999"   
+- Message: "O número de celular deve corresponder ao formato 1000000-9999999999"
+- Field is highlighted in red  
