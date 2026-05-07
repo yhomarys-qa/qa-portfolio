@@ -10,7 +10,7 @@
 
 ---
 
-## ❌ Expected Result
+## ✅ Expected Result
 - Alphabetic characters are not accepted  
 - No characters appear in the input field  
 - System prevents invalid keystrokes  
