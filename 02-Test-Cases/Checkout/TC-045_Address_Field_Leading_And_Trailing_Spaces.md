@@ -18,4 +18,3 @@
 - Address value is either:
   - trimmed automatically, or
   - accepted without causing validation or formatting issues  
-- No unexpected behavior occurs during form submission  
