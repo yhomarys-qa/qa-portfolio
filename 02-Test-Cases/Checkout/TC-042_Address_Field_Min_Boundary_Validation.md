@@ -15,4 +15,3 @@
 ## ✅ Expected Result
 - Address field accepts input with 1 character  
 - No validation error message is displayed  
-- Form submission proceeds successfully  
