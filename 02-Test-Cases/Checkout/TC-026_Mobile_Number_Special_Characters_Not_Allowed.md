@@ -11,5 +11,6 @@
 ---
 
 ## ❌ Expected Result
-- Input is rejected  
-- Error message is displayed  
+- Special characters are not accepted  
+- No characters appear in the input field  
+- System prevents invalid keystrokes  
