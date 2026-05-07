@@ -1,10 +1,15 @@
 # TC-055 – Verify ZIP Code rejects special characters input
 
 ## 🧪 Test Steps
-1. Open Add New Address form  
-2. Locate the "ZIP Code" field  
-3. Enter special characters (e.g., @#$%&*)  
-4. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name
+3. Enter a valid name
+4. Enter a valid mobile phone number
+5. Enter special characters (e.g., @#$%&*)   
+6. Fill all other required fields  
+7. Click on "Submit"
+
+---
 
 ## ✅ Expected Result
 - Special characters are not accepted  
