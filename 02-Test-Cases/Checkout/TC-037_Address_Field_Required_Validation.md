@@ -15,5 +15,4 @@
 ## ✅ Expected Result
 - Validation message is displayed:
   "Por favor, seleccione una dirección"  
-- Address field is highlighted in red (if validation styling is applied)  
-- Form is not submitted  
+- Address field is highlighted in red 
