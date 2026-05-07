@@ -12,7 +12,5 @@
 ---
 
 ## ✅ Expected Result
-- ZIP Code accepts numeric input  
-- No validation error is displayed  
-- Field value is preserved correctly  
-- Form proceeds to next step (if all fields are valid) 
+
+ZIP Code accepts numeric input  
