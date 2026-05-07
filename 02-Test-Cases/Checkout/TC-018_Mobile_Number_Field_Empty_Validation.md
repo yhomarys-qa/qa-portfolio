@@ -1,10 +1,12 @@
 # TC-018 – Verify Mobile Number field validation when left empty
 
 ## 🧪 Test Steps
-1. Open Add New Address form  
-2. Leave "Mobile Number" field empty  
-3. Fill all other required fields correctly  
-4. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name
+3. Enter a valid name
+4. Leave "Mobile Number" field empty  
+5. Fill all other required fields  
+6. Click on "Submit"  
 
 ---
 
