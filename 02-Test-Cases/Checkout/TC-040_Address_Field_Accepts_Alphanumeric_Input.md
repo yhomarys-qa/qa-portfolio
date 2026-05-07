@@ -16,4 +16,3 @@
 
 - Alphanumeric input is accepted  
 - No validation error message is displayed  
-- Form submission proceeds successfully  
