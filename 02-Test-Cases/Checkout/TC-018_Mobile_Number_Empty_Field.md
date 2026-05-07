@@ -1,4 +1,4 @@
-# TC-018 – Verify Mobile Number field validation when left empty
+# TC-018 – Verify Mobile Number field cannot be empty
 
 ## 🧪 Test Steps
 1. Open Add New Address form
