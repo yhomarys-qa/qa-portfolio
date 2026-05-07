@@ -5,7 +5,7 @@
 2. Enter a valid country name
 3. Enter a valid name
 4. Enter valid special characters
-5. Enter a valid numeric value (e.g., 12345678) 
+5. Enter a valid numeric value (e.g., 10001) 
 6. Fill all other required fields  
 7. Click on "Submit"
 
