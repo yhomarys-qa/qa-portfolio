@@ -16,5 +16,3 @@
 - If alphanumeric is not allowed for the selected country:
   - Input should be rejected  
   - Validation error should be displayed  
-- If allowed (country-specific):
-  - Input should be accepted correctly  
