@@ -11,7 +11,7 @@
 
 ---
 
-## ❌ Expected Result (best practice)
+## ✅ Expected Result
 - System should validate ZIP Code format according to selected country  
 - If alphanumeric is not allowed for the selected country:
   - Input should be rejected  
