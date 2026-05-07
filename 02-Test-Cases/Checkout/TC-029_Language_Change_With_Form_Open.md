@@ -8,7 +8,7 @@
 5. Enter a valid ZIP Code (e.g., 12345-678) 
 6. Change language using the language selector (top navigation)
 7. Observe the form behavior
-8. Verify if labels and validation messages are translated correctly
+8. Verify if all previously entered data is preserved  
 9. Verify if labels and validation messages are translated correctly 
 10. Fill all other required fields  
 11. Click on "Submit"
