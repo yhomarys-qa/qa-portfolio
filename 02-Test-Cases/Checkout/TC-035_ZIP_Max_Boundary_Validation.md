@@ -14,4 +14,3 @@
 ## ✅ Expected Result
 - ZIP Code is accepted  
 - No validation error is displayed  
-- Form submission proceeds successfully 
