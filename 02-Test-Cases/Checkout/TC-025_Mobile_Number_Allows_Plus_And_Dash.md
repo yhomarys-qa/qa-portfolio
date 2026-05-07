@@ -1,11 +1,12 @@
 # TC-025 – Verify Mobile Number allows '+' and '-' characters
 
 ## 🧪 Test Steps
-1. Focus on Mobile Number field  
-2. Enter values with special characters:
-   - +55 11 98765-4321  
-   - 11987654321  
-3. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name
+3. Enter a valid name
+4. Enter special characters in the "Mobile number" field (e.g., (+,-) "+551198765-4321")
+5. Fill all other required fields  
+6. Click on "Submit"
 
 ---
 
