@@ -12,7 +12,5 @@
 ---
 
 ## ✅ Expected Result
-- Input is rejected  
 - Validation error message is displayed  
 - Field is highlighted in red (if UI validation is applied)  
-- Form is not submitted  
