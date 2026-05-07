@@ -14,6 +14,5 @@
 
 ## ✅ Expected Result
 - System rejects input above 160 characters  
-- Validation error message is displayed (if implemented)  
-- Address field is highlighted in red (if validation styling is applied)  
-- Form is not submitted  
+- Validation error message is displayed 
+- Address field is highlighted in red 
