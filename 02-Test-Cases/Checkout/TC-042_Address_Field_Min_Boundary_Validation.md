@@ -13,8 +13,6 @@
 ---
 
 ## ✅ Expected Result
-
-- System behavior depends on business rules:
-  - If minimum length is enforced → validation error is displayed  
-  - If no minimum length exists → input is accepted  
-- No unexpected behavior occurs  
+- Address field accepts input with 1 character  
+- No validation error message is displayed  
+- Form submission proceeds successfully  
