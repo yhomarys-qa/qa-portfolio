@@ -10,7 +10,7 @@
 
 ---
 
-## ❌ Expected Result
+## ✅ Expected Result
 - System rejects the input  
 - Validation message is displayed:
   "O número de celular deve corresponder ao formato 1000000-9999999999"  
