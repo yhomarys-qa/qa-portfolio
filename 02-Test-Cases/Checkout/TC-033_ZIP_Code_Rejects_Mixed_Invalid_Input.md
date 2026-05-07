@@ -14,5 +14,4 @@
 ## ✅ Expected Result
 - System rejects mixed invalid input  
 - Validation error message is displayed  
-- Field is highlighted in red (if UI validation is applied)  
-- Form is not submitted  
+- Field is highlighted in red 
