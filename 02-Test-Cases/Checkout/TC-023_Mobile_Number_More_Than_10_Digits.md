@@ -1,10 +1,12 @@
 # TC-023 – Verify Mobile Number rejects values with more than 10 digits
 
 ## 🧪 Test Steps
-1. Open Add New Address form  
-2. Enter a mobile number with more than 10 digits (e.g., 12345678901)  
-3. Fill all other required fields with valid data  
-4. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name
+3. Enter a valid name
+4. Enter a mobile number with more than 10 digits (e.g., 12345678901)  
+5. Fill all other required fields  
+6. Click on "Submit"  
 
 ---
 
