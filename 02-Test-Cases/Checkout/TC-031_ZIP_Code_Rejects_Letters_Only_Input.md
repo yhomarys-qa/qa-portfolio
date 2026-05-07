@@ -14,4 +14,3 @@
 ## ✅ Expected Result
 - Input is rejected  
 - Validation message is displayed  
-- Form is not submitted 
