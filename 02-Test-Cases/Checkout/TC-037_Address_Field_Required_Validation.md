@@ -1,4 +1,4 @@
-# TC-037 – Verify Address cannot be empty
+# TC-037 – Make sure the address field is not empty.
 
 ## 🧪 Test Steps
 1. Open Add New Address form
