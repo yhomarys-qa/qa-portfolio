@@ -12,5 +12,4 @@
 
 ## ✅ Expected Result
 - Mobile number is accepted  
-- No validation errors are shown  
 - Field remains valid  
