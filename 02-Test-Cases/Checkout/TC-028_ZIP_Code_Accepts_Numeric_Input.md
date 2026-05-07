@@ -1,11 +1,13 @@
 # TC-028 – Verify ZIP Code accepts numeric input
 
 ## 🧪 Test Steps
-1. Open Add New Address form  
-2. Locate the "ZIP Code" field  
-3. Enter a valid numeric value (e.g., 12345678)  
-4. Fill all other required fields with valid data  
-5. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name
+3. Enter a valid name
+4. Enter valid special characters
+5. Enter a valid numeric value (e.g., 12345678) 
+6. Fill all other required fields  
+7. Click on "Submit"
 
 ---
 
