@@ -16,4 +16,3 @@
 
 - Numeric input is accepted in the Address field  
 - No validation error is displayed  
-- Form submission proceeds successfully  
