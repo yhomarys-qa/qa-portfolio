@@ -11,5 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- Input is accepted  
-- No validation error is shown  
+- Mobile number is accepted  
+- Field remains valid  
