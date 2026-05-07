@@ -4,7 +4,7 @@
 1. Open Add New Address form
 2. Enter a valid country name 
 3. Enter a valid name
-4. Enter 6-digit number (e.g., 123456)
+4. Enter 4-digit number (e.g., 1234)
 5. Fill all other required fields
 6. Click on "Submit"
 
