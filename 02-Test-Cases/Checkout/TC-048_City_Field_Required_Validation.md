@@ -15,4 +15,3 @@
 
 ## ✅ Expected Result
 - Validation error message is displayed  
-- Form submission is blocked  
