@@ -13,4 +13,3 @@
 ## ✅ Expected Result
 - Mobile Number field is highlighted in red  
 - Validation message is displayed (e.g., "Please provide a mobile number")  
-- Form is not submitted  
