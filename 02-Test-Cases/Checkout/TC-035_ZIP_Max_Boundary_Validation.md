@@ -5,7 +5,7 @@
 2. Enter a valid country name
 3. Enter a valid name
 4. Enter a valid mobile phone number
-5. Enter a value with fewer than 8 characters (for example, 123 or 123456)   
+5. Enter a valid ZIP Code with exactly 8 characters (e.g., 12304678)     
 6. Fill all other required fields  
 7. Click on "Submit"
 
