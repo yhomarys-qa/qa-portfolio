@@ -1,11 +1,13 @@
-# TC-049 – Verify ZIP Code accepts alphanumeric input (letters + numbers)
+# TC-030 – Verify ZIP Code accepts alphanumeric input (letters + numbers)
 
 ## 🧪 Test Steps
-1. Open Add New Address form  
-2. Locate the "ZIP Code" field  
-3. Enter a mixed value (e.g., A1B2C3 or 123ABC)  
-4. Fill all other required fields  
-5. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name
+3. Enter a valid name
+4. Enter a valid mobile phone number
+5. Enter a mixed value (e.g., A1B2C3 or 123ABC) 
+6. Fill all other required fields  
+7. Click on "Submit"
 
 ---
 
