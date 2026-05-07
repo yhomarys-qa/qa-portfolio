@@ -12,4 +12,4 @@
 
 ## ✅ Expected Result
 - Input is accepted  
-- Form is submitted successfully  
+- Field remains valid  
