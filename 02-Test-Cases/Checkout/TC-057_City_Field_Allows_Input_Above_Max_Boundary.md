@@ -14,6 +14,7 @@
 ---
 
 ## ✅ Expected Result
-- System accepts input above the recommended maximum boundary without validation  
-- No maximum length restriction is enforced  
-- No validation error message is displayed  
+- System should not accept input above 50 characters  
+- Validation error message should be displayed, or
+- Additional characters should be blocked  
+- Form submission should not proceed with invalid input  
