@@ -15,5 +15,4 @@
 
 ## ✅ Expected Result
 
-- Alphanumeric input is accepted  
-- No validation error message is displayed  
+Alphanumeric input is accepted  
