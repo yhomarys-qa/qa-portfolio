@@ -7,7 +7,7 @@
 4. Enter a valid mobile phone number
 5. Enter a valid ZIP code
 6. Enter a valid address
-7. Enter a City value with exactly 2 characters (e.g., NY)    
+7. In the city field, enter 2 characters (e.g., NY)    
 8. Fill all other required fields  
 9. Click on "Submit"
 
