@@ -1,13 +1,16 @@
 # TC-060 – Verify State field behavior with numeric input
 
 ## 🧪 Test Steps
-
-1. Open Add New Address form  
-2. Fill all required fields with valid data except State  
-3. Locate the "State" field  
-4. Enter numeric input only  
-   (e.g., "123456")  
-5. Click on "Submit"  
+1. Open Add New Address form
+2. Enter a valid country name
+3. Enter a valid name
+4. Enter a valid mobile phone number
+5. Enter a valid ZIP code
+6. Enter a valid address
+7. Enter a valid City   
+8. Enter numeric input only  
+   (e.g., "123456")   
+9. Click on "Submit"
 
 ---
 
