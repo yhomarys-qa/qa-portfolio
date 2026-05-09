@@ -8,7 +8,7 @@
 5. Enter a valid ZIP code
 6. Enter a valid address
 7. Enter a valid City   
-8. Enter alphabetic input only (e.g., Paraná)  
+8. Enter only alphabetic characters in the state field (e.g., Paraná)  
 9. Click on "Submit"
 
 ---
