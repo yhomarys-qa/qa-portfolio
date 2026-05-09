@@ -1,4 +1,4 @@
-# TC-010 – Verify Country field accepts only alphabetic characters
+# TC-010 – Verify Country field accepts only numbers characters
 
 ## 🧪 Test Steps
 1. Open Add New Address form  
