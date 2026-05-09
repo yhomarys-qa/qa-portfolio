@@ -7,7 +7,7 @@
 4. Enter a valid mobile phone number
 5. Enter a valid ZIP code
 6. Enter a valid address
-7. Enter alphanumeric input (e.g., City123)    
+7. Enter alphanumeric data (e.g., City123)    
 8. Fill all other required fields  
 9. Click on "Submit"
 
