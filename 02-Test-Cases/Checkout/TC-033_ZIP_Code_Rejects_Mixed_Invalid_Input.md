@@ -5,7 +5,7 @@
 2. Enter a valid country name
 3. Enter a valid name
 4. Enter a valid mobile phone number
-5. Enter mixed invalid input containing letters, numbers, and special characters (e.g., A1@B2#C3 or AB$12CD)   
+5. Enter an invalid combination of characters containing letters, numbers, and special characters in the zip code field (e.g., A1@B2#C3 or AB$12CD)   
 6. Fill all other required fields  
 7. Click on "Submit"
 
