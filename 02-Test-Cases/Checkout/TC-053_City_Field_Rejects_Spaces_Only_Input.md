@@ -14,7 +14,5 @@
 ---
 
 ## ✅ Expected Result
-
 - Spaces-only input is not accepted  
 - Validation error message is displayed  
-- Form submission is blocked  
