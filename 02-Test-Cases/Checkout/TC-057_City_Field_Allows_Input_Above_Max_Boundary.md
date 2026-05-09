@@ -7,7 +7,7 @@
 4. Enter a valid mobile phone number
 5. Enter a valid ZIP code
 6. Enter a valid address
-7. Enter a city with more than 50 characters  
+7. In the city field, enter more than 50 characters  
 8. Fill all other required fields  
 9. Click on "Submit"
 
