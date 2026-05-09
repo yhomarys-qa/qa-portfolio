@@ -5,7 +5,7 @@
 2. Enter a valid country name
 3. Enter a valid name
 4. Enter a valid mobile phone number
-5. Enter an alphanumeric value in the ZIP Code field (e.g., A1B2C3 or 123ABC)   
+5. Enter alphanumeric input in the field (e.g., A1B2C3 or 123ABC)   
 6. Fill all other required fields  
 7. Click on "Submit"
 
