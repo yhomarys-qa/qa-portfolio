@@ -15,6 +15,4 @@
 
 ## ✅ Expected Result
 
-- State names containing spaces are accepted  
-- No validation error message is displayed  
-- Form submission proceeds successfully  
+State names containing spaces are accepted  
