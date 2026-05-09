@@ -15,7 +15,5 @@
 
 ## ✅ Expected Result
 
-- Validation message is displayed:
+Validation error message is displayed:
   "Please provide a state"  
-- State field border is highlighted in red  
-- Form submission is blocked  
