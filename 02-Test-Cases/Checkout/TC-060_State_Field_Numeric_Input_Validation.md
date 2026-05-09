@@ -8,8 +8,7 @@
 5. Enter a valid ZIP code
 6. Enter a valid address
 7. Enter a valid City   
-8. Enter numeric input only  
-   (e.g., "123456")   
+8. Enter only numeric values ​​in the state field (e.g., "123456")   
 9. Click on "Submit"
 
 ---
