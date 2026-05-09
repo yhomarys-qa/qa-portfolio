@@ -7,7 +7,7 @@
 4. Enter a valid mobile phone number
 5. Enter a valid ZIP code
 6. Enter a valid address
-7. Enter numeric input only (e.g., 123456)  
+7. Enter only the numeric input in the city field (e.g., 123456)  
 8. Fill all other required fields  
 9. Click on "Submit"
 
