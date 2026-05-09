@@ -6,7 +6,7 @@
 3. Enter a valid name
 4. Enter a valid mobile phone number
 5. Enter a valid ZIP code
-6. Enter alphanumeric input (e.g., Street ABC 123)       
+6. Enter alphanumeric data in the address field (e.g., Street ABC 123)       
 7. Fill all other required fields  
 8. Click on "Submit"
 
