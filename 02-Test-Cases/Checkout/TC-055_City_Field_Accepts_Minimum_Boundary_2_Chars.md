@@ -14,7 +14,5 @@
 ---
 
 ## ✅ Expected Result
-
 - Two-character City input is accepted  
 - No validation error message is displayed  
-- Form submission proceeds successfully  
