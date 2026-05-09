@@ -17,4 +17,3 @@
 - System behavior follows validation rules:
   - numeric input is rejected, or
   - validation error message is displayed  
-- Form submission should not proceed with invalid numeric-only input  
