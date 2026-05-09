@@ -7,7 +7,7 @@
 4. Enter a valid mobile phone number
 5. Enter a valid ZIP code
 6. Enter a valid address
-7. Enter alphabetic input only (e.g., Curitiba) 
+7. Enter only alphabetic characters in the city field (e.g., Curitiba) 
 8. Fill all other required fields  
 9. Click on "Submit"
 
