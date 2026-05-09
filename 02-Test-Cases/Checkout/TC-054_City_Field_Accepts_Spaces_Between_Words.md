@@ -15,6 +15,4 @@
 
 ## ✅ Expected Result
 
-- City names containing spaces are accepted  
-- No validation error message is displayed  
-- Form submission proceeds successfully  
+City names containing spaces are accepted  
