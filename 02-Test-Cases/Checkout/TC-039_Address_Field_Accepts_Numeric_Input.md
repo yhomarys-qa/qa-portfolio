@@ -6,7 +6,7 @@
 3. Enter a valid name
 4. Enter a valid mobile phone number
 5. Enter a valid ZIP code
-6. Enter only the numeric input in the address field (e.g., 123456)       
+6. EEnter only the numeric value in the address field (e.g., 123456)       
 7. Fill all other required fields  
 8. Click on "Submit"
 
