@@ -14,7 +14,5 @@
 ---
 
 ## ✅ Expected Result
-
 - Numeric-only input should not be accepted  
 - Validation error message should be displayed  
-- Form submission should not proceed with invalid input  
