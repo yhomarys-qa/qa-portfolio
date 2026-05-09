@@ -7,7 +7,7 @@
 4. Enter a valid mobile phone number
 5. Enter a valid ZIP code
 6. Enter a valid address
-7. Enter spaces only (e.g., "     ")     
+7. Enter only spaces in the city field (e.g., "     ")     
 8. Fill all other required fields  
 9. Click on "Submit"
 
