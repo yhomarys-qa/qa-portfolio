@@ -1,4 +1,4 @@
-# TC-007 – Verify invalid login error message
+# TC-007 – Verify that characters entered in the Password field are masked
 
 ## 🧪 Test Steps
 1. Open the application  
