@@ -10,5 +10,5 @@
 ---
 
 ## Expected Result
-- The password should be accepted successfully
-- No validation error message should be displayed
+- The system should reject the password
+- An appropriate validation message should be displayed indicating that numeric and special characters are required
