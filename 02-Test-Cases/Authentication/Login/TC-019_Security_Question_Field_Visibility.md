@@ -1,6 +1,6 @@
 # TC-018 - Verify that the Security Question field is visible in the "Forgot Password" form
 
-## Test Steps
+## 🧪 Test Steps
 1. Navigate to the "Forgot Password" form
 2. Observe the Security Question field
 
