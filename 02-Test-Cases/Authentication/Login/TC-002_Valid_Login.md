@@ -5,7 +5,7 @@
 2. Navigate to the login page  
 3. Enter a valid email address in the "Email" field  
 4. Enter a valid password in the "password" field  
-5. Click on "Log in"  
+5. Click the [Log in] button  
 
 ---
 
