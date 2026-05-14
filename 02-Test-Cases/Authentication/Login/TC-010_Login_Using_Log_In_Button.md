@@ -9,5 +9,5 @@
 ---
 
 ## ✅ Expected Result
-
-The user should be successfully logged into the system
+- User is successfully logged in  
+- User is redirected to the Product Catalog page   
