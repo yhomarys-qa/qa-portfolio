@@ -2,7 +2,7 @@
 
 ## Test Steps
 1. Navigate to the "Forgot Password" form
-2. Hover the mouse cursor over the question mark icon next to the Email field
+2. Hover the mouse cursor over the question mark icon located at the end of the Email field
 3. Observe the tooltip/help text displayed
 
 ---
