@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 
-An error message should be displayed
+Validation message "Invalid email or password" is displayed  
