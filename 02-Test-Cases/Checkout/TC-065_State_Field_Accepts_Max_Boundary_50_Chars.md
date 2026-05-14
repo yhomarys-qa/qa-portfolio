@@ -16,4 +16,3 @@
 ## ✅ Expected Result
 - Input with 50 characters is accepted  
 - No validation error message is displayed  
-- Form submission proceeds successfully  
