@@ -4,7 +4,7 @@
 1. Navigate to the "Forgot Password" form
 2. Enter a valid email address
 3. Enter a valid answer in the "Security Question" field
-4. Enter a password containing uppercase letters in the New Password field (e.g., TesTing) 
+4. Enter a password containing only uppercase letters in the New Password field (e.g., TESTING) 
 5. Observe the validation behavior
 
 ---
