@@ -9,6 +9,6 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 - The system should reject the password.
 - A validation message should be displayed indicating that uppercase letters, lowercase letters, and numeric characters are required.
