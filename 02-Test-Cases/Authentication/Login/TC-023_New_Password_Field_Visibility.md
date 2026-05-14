@@ -6,6 +6,6 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 
 The New Password field should be visible and accessible to the user
