@@ -1,6 +1,6 @@
 # TC-026 - Verify if the New Password field only accepts uppercase letters
 
-## Test Steps
+## 🧪 Test Steps
 1. Navigate to the "Forgot Password" form
 2. Enter a valid email address
 3. Enter a valid answer in the "Security Question" field
