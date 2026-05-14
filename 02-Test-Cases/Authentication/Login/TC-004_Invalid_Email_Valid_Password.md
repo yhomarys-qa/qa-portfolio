@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 
-Validation message "Invalid email or password" is displayed  
+Validation message "Please provide an email address" is displayed  
