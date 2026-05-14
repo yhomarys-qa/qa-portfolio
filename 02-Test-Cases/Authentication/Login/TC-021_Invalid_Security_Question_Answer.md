@@ -8,6 +8,6 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 
 An error message should be displayed
