@@ -7,6 +7,6 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 - The system should display a validation message indicating that the email format is invalid
 - The remaining form fields should remain blocked or disabled
