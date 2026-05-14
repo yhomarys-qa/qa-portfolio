@@ -4,7 +4,7 @@
 1. Open the application  
 2. Navigate to the login page  
 3. Leave the Email field empty  
-4. Enter an invalid password in the Password field  
+4. Enter an valid password in the Password field  
 5. Click on "Log in"  
 
 ---
