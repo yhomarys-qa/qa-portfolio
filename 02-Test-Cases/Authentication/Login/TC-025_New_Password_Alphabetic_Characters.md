@@ -1,4 +1,4 @@
-# TC-025 -Verify that the New Password field accepts alphabetic characters
+# TC-025 - Enter a password containing only alphabetic characters in the New Password field
 
 ## Test Steps
 1. Navigate to the "Forgot Password" form
