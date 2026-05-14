@@ -7,5 +7,5 @@
 ---
 
 ## Expected Result
-- The user should be redirected to the password recovery page
-- The password recovery page should load successfully
+
+The user should be redirected to the password recovery page
