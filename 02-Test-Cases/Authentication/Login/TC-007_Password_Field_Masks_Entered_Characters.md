@@ -3,9 +3,8 @@
 ## 🧪 Test Steps
 1. Open the application  
 2. Navigate to the login page  
-3. Enter a valid email address in the "Email" field  
-4. Enter a valid password in the "password" field  
-5. Observe the characters displayed in the Password field  
+3. Enter any password in the Password field
+4. Observe the characters displayed in the Password field  
 
 ---
 
