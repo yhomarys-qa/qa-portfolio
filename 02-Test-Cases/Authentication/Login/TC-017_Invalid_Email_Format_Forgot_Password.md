@@ -1,4 +1,4 @@
-# TC-017 - Verify system behavior when an invalid email address is entered in the Forgot Password form
+# TC-017 - Verify that the system rejects invalid email addresses in the "Forgot Password" form
 
 ## Test Steps
 1. Navigate to the Forgot Password form.
