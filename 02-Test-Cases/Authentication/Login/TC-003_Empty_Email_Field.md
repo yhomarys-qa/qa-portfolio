@@ -1,4 +1,4 @@
-# TC-003 – Verify that login fails when the Email field is left empty
+# TC-003 – Verify that the system rejects login attempts with an empty Email field
 
 ## 🧪 Test Steps
 1. Open the application  
