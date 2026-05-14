@@ -1,4 +1,4 @@
-# TC-006 – Verify that login fails with a valid email and invalid password
+# TC-006 – Verify that the system rejects login attempts with an invalid password address
 
 ## 🧪 Test Steps
 1. Open the application  
