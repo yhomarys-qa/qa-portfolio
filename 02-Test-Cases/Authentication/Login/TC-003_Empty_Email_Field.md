@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 
-A validation message indicating that the Email field is required should be displayed
+A validation message should be displayed indicating that the email field is required
