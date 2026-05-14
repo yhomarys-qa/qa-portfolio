@@ -14,7 +14,6 @@
 ---
 
 ## ✅ Expected Result
-
 - System should not accept input above 50 characters  
 - Validation error message should be displayed, or
 - Additional characters should be blocked  
