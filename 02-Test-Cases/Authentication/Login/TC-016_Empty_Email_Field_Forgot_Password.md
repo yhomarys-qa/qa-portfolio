@@ -1,6 +1,6 @@
 # TC-015 - Verify that the Email field is mandatory in the "Forgot Password" form
 
-## Test Steps
+## 🧪 Test Steps
 1. Navigate to the Forgot Password form
 2. Leave the Email field empty
 3. Observe the remaining form fields
