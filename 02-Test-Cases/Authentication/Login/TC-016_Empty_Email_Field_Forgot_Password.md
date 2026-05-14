@@ -8,6 +8,6 @@
 ---
 
 ## Expected Result
+- A validation message should be displayed: "Please provide an email address"
 - The remaining form fields should remain blocked or disabled
 - The user should not be able to continue the password recovery process without entering an email address
-- A validation message should be displayed: "Please provide an email address"
