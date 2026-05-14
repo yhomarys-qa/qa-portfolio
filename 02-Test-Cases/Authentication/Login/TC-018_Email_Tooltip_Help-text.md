@@ -7,6 +7,6 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 - The tooltip/help text should be displayed successfully
 - The message "Please provide an email address." should be visible to the user
