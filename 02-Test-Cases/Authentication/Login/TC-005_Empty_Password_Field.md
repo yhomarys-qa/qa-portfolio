@@ -1,4 +1,4 @@
-# TC-005 – Verify that login fails when the Password field is left empty
+# TC-005 – Check if the system rejects the login when the Password field is empty
 
 ## 🧪 Test Steps
 1. Open the application  
