@@ -9,6 +9,6 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 - A validation message should be displayed indicating that at least one special character is required
 - The system should reject the password
