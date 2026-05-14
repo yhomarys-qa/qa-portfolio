@@ -1,14 +1,13 @@
 # TC-021 - Verify that the system rejects an incorrect Security Question answer in the "Forgot Password" form
 
 ## Test Steps
-1. Navigate to the "Forgot Password" form.
-2. Enter a valid email address.
-3. Enter an incorrect answer in the Security Question field.
-4. Attempt to continue the password recovery process.
+1. Navigate to the "Forgot Password" form
+2. Enter a valid email address
+3. Enter an incorrect answer in the Security Question field
+4. Attempt to continue the password recovery process
 
 ---
 
 ## Expected Result
-- The password recovery process should fail.
-- The user should not be allowed to proceed.
-- An appropriate error message should be displayed.
+
+An error message should be displayed
