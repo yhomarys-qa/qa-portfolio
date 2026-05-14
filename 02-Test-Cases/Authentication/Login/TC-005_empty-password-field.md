@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- The login attempt should fail.
-- The user should remain on the Login page.
-- A validation message indicating that the Password field is required should be displayed.
+
+A validation message indicating that the Password field is required should be displayed.
