@@ -10,5 +10,5 @@
 ---
 
 ## Expected Result
+- A validation message should be displayed indicating that the password does not meet the required complexity rules
 - The system should reject the password
-- An appropriate validation message should be displayed indicating that numeric and special characters are required
