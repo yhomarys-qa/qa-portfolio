@@ -1,14 +1,14 @@
-# TC-004 – Verify login using Enter key
+# TC-004 – Verify that login fails with a valid email and invalid password
 
 ## 🧪 Test Steps
 1. Open the application  
 2. Navigate to the login page  
-3. Enter a registered email in the "Email" field  
-4. Enter the correct password in the "Password" field  
-5. Press the "Enter" key  
+3. Enter an invalid email in the email field   
+4. Enter an invalid password in the Password field  
+5. Click on "Log in"  
 
 ---
 
 ## ✅ Expected Result
-- User is successfully logged in  
-- User is redirected to the Product Catalog page   
+
+An appropriate error message should be displayed.
