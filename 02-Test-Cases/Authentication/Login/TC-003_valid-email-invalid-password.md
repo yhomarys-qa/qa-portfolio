@@ -1,0 +1,15 @@
+# TC-003 – Verify that login fails with a valid email and invalid password
+
+## 🧪 Test Steps
+1. Open the application  
+2. Navigate to the login page  
+3. Enter an invalid email in the email field   
+4. Enter an invalid password in the Password field  
+5. Click on "Log in"  
+
+---
+
+## ✅ Expected Result
+- The login attempt should fail.
+- The user should remain on the Login page.
+- An appropriate error message should be displayed.
