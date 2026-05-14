@@ -15,6 +15,4 @@
 
 ## ✅ Expected Result
 
-- Single-character input is accepted  
-- No validation error message is displayed  
-- Form submission proceeds successfully  
+Single-character input is accepted  
