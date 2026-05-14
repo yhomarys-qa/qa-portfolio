@@ -1,4 +1,4 @@
-# TC-010 – Verify that the user can log in using the [Log in] button
+# TC-010 – Verify login using the [Log In] button
 
 ## 🧪 Test Steps
 1. Navigate to the Login page.
