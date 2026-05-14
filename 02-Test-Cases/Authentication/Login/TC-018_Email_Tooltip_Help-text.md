@@ -1,6 +1,6 @@
 # TC-018 - Verify that the tooltip/help text is displayed for the Email field
 
-## Test Steps
+## 🧪 Test Steps
 1. Navigate to the "Forgot Password" form
 2. Hover the mouse cursor over the question mark icon located at the end of the Email field
 3. Observe the tooltip/help text displayed
