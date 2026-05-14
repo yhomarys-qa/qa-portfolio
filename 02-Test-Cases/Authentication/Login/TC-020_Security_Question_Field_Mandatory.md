@@ -10,4 +10,4 @@
 
 ## Expected Result
 - The user should not be allowed to proceed with the password recovery process.
-- An appropriate validation message should be displayed.
+- An validation message should be displayed.
