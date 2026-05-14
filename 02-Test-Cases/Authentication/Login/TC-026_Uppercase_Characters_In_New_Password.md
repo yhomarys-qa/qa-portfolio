@@ -10,5 +10,5 @@
 ---
 
 ## Expected Result
-- The password should accept uppercase letters successfully
-- No validation error related to uppercase letters should be displayed
+- A validation message should be displayed indicating that the password does not meet the required complexity rules
+- The system should reject the password
