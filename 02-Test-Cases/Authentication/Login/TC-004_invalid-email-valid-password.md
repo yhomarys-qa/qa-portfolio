@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 
-An appropriate error message should be displayed
+An error message should be displayed
