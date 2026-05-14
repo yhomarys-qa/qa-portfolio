@@ -3,12 +3,12 @@
 ## 🧪 Test Steps
 1. Open the application  
 2. Navigate to the login page  
-3. Enter a valid email in the "Email" field  
-4. Enter an incorrect password in the "Password" field  
-5. Click on "Log in"  
+3. Enter a valid email address in the "Email" field  
+4. Enter a valid password in the "password" field  
+5. Observe the characters displayed in the Password field  
 
 ---
 
 ## ✅ Expected Result
-
-Validation message "Invalid email or password" is displayed  
+- All characters entered in the Password field should be masked
+- The password should not be visible in plain text
