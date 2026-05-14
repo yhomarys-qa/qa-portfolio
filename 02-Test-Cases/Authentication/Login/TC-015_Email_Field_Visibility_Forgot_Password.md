@@ -1,4 +1,4 @@
-# TC-013 - Verify that the Email field is visible in the Forgot Password form
+# TC-015 - Verify that the Email field is visible in the Forgot Password form
 
 ## Test Steps
 1. Navigate to the Forgot Password form.
