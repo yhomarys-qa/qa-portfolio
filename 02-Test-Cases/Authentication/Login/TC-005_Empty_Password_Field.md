@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 
-A validation message should be displayed indicating that the Password field is required
+A validation message indicating that the Password field is required should be displayed
