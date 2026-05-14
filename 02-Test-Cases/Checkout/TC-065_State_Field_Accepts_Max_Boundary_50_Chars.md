@@ -1,4 +1,4 @@
-# TC-065 – Verify State field rejects input above maximum boundary
+# TC-065 – Verify State field accepts maximum boundary value (50 characters)
 
 ## 🧪 Test Steps
 1. Open Add New Address form
@@ -8,11 +8,12 @@
 5. Enter a valid ZIP code
 6. Enter a valid address
 7. Enter a valid City   
-8. Enter a State value with more than 50 characters   
+8. Enter a State value with exactly 50 characters  
 9. Click on "Submit"
 
 ---
 
 ## ✅ Expected Result
-- System should not accept input above 50 characters  
-- Validation error message should be displayed, or
+- Input with 50 characters is accepted  
+- No validation error message is displayed  
+- Form submission proceeds successfully  
