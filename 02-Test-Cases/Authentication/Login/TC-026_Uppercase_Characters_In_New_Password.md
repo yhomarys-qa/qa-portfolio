@@ -1,4 +1,4 @@
-# TC-026 - Verify that the New Password field accepts uppercase letters
+# TC-026 - Verify if the New Password field only accepts uppercase letters
 
 ## Test Steps
 1. Navigate to the "Forgot Password" form
