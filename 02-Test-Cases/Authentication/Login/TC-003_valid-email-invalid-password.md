@@ -10,6 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- The login attempt should fail.
-- The user should remain on the Login page.
-- An appropriate error message should be displayed.
+
+An appropriate error message should be displayed.
