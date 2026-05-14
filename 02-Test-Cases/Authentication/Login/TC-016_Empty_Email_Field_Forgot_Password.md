@@ -1,4 +1,4 @@
-# TC-015 - Verify if the user can proceed with the "Forgot my password" form even with an empty email field
+# TC-015 - Verify that the Email field is mandatory in the "Forgot Password" form
 
 ## Test Steps
 1. Navigate to the Forgot Password form.
