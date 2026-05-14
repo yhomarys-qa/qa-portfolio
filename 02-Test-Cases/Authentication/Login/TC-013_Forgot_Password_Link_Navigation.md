@@ -6,6 +6,6 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 
 The user should be redirected to the password recovery page
