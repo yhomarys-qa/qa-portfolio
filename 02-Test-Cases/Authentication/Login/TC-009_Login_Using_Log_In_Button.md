@@ -9,5 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- The user should be successfully logged into the system
-- The user should be redirected to the Home page or dashboard
+
+The user should be successfully logged into the system
