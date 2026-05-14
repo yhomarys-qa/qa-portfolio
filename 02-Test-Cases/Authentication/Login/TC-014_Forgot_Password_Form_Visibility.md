@@ -7,6 +7,6 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 - The Forgot Password form should be displayed successfully
 - All required fields and elements should be visible
