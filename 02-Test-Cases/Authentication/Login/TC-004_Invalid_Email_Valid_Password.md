@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 
-Validation message "Invalid email or password" is displayed  
+A validation message, "Please answer your security question," should be displayed
