@@ -1,4 +1,4 @@
-# TC-004 – Verify that login fails with an invalid email and valid password
+# TC-004 – Verify that the system rejects login attempts with an invalid email address
 
 ## 🧪 Test Steps
 1. Open the application  
