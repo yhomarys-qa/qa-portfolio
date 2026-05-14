@@ -10,5 +10,5 @@
 ---
 
 ## Expected Result
-- A validation message, "Please provide your new password," should be displayed
+- A validation message "Please provide your new password," should be displayed
 - The user should not be allowed to proceed with the password recovery process
