@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the application  
 2. Navigate to the login page  
-3. Enter an invalid email in the email field   
+3. Enter an valid email in the email field   
 4. Enter an invalid password in the Password field  
 5. Click on "Log in"  
 
