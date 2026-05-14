@@ -11,4 +11,4 @@
 
 ## Expected Result
 - A validation message should be displayed indicating that the password does not meet the required complexity rules
-- The system should reject the password
+- The system should reject the new password
