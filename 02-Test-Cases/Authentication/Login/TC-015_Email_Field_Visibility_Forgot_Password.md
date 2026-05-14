@@ -6,5 +6,5 @@
 
 ---
 
-## Expected Result
+## ✅ Expected Result
 - The Email field should be visible and accessible to the user.
