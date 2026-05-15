@@ -11,5 +11,5 @@
 ---
 
 ## ✅ Expected Result
-
-The system should validate whether special-character-only passwords are allowed according to password policy rules
+- A validation message should be displayed indicating that the password does not meet the required complexity rules
+- The system should not allow registration with a password that contains only special characters
