@@ -4,7 +4,7 @@
 1. Open the application  
 2. Log in with valid credentials  
 3. Add a product to the cart
-4. Check if the shopping cart icon has been updated
+4. Observe if the shopping cart icon has been updated
 
 ---
 
