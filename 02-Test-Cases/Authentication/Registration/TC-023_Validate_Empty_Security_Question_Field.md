@@ -13,5 +13,5 @@
 ---
 
 ## ✅ Expected Result
-- A validation message should be displayed indicating that the security question field is required
-- Registration should not be allowed
+
+A validation message should be displayed indicating that the security question field is required
