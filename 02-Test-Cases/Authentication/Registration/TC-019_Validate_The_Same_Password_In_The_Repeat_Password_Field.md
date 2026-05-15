@@ -6,7 +6,8 @@
 3. Enter a valid email address
 4. Enter a valid password in the "Password" field
 5. Enter the same password in the "Repeat Password" field
-6. Click on the "Register" button
+6. Fill in other required fields 
+7. Click on the "Register" button
 
 ---
 
