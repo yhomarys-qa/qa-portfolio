@@ -5,10 +5,8 @@
 2. Access the registration page
 3. Enter a valid email address
 4. Enter a password with exactly 8 characters (e.g., "Pass1234")
-5. Confirm the password in the "Repeat Password" field.
-6. Select a security question.
-7. Enter a valid security answer.
-8. Click on the "Register" button.
+5. Fill in all required fields
+6. Click on the "Register" button
 
 ---
 
