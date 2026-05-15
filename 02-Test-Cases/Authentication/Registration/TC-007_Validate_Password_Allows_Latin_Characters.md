@@ -12,4 +12,4 @@
 
 ## ✅ Expected Result
 
-The system should accept passwords containing Latin characters and proceed according to validation rules
+A validation message should be displayed indicating that the password does not meet the required complexity rules. The system should not allow registration with a password containing only letters
