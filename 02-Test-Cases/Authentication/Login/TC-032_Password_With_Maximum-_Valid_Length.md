@@ -10,5 +10,5 @@
 ---
 
 ## ✅ Expected Result
-- The password should be accepted successfully
-- No validation message should be displayed
+
+The password should be accepted successfully
