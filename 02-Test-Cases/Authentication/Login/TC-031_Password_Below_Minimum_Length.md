@@ -7,6 +7,6 @@
 
 ---
 
-#### Expected Result
+## ✅ Expected Result
 - The system should reject the password.
 - A validation message should be displayed indicating that the password must contain at least 8 characters.
