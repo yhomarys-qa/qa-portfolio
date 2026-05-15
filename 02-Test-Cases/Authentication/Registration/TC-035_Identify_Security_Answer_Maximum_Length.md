@@ -7,11 +7,11 @@
 4. Enter a valid password
 5. Enter the same password in the "Repeat Password" field
 6. Select a security question
-7. Enter a value exceeding the expected maximum length in the "Security Answer" field
+7. Enter a value with more than 255 characters in the "Security Answer" field
 8. Click on the "Register" button
 
 ---
 
 ## ✅ Expected Result
 
-The system should validate the maximum allowed length for the "Security Answer" field according to business rules
+A validation message should be displayed indicating that the maximum character limit has been exceeded
