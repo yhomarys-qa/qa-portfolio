@@ -11,5 +11,5 @@
 ---
 
 ## ✅ Expected Result
-
-A validation message should be displayed indicating that the password does not meet the required complexity rules. The system should not allow registration with a password containing only letters
+- A validation message should be displayed indicating that the password does not meet the required complexity rules.
+- The system should not allow registration with a password containing only letters
