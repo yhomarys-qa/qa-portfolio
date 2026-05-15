@@ -13,5 +13,5 @@
 ---
 
 ## ✅ Expected Result
-
-A validation message should be displayed indicating that the maximum character limit has been exceeded. Registration should not be allowed
+- A validation message should be displayed indicating that the maximum character limit has been exceeded
+- Registration should not be allowed
