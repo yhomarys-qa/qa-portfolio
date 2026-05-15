@@ -10,4 +10,4 @@
 
 ## ✅ Expected Result
 
-The system should successfully process the registration request and create a new user account
+The system should successfully create the account and display a confirmation message to the user
