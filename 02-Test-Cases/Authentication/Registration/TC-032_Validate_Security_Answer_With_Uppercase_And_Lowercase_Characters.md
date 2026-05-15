@@ -1,4 +1,4 @@
-# TC-034 - Validate Security Answer With Uppercase And Lowercase Characters
+# TC-032 - Validate Security Answer With Uppercase And Lowercase Characters
 
 ## 🧪 Test Steps
 1. Open the application
