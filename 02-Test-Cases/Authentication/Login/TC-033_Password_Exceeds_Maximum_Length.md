@@ -5,6 +5,6 @@
 2. Enter a password containing more than 40 characters in the New Password field
 3. Observe the validation behavior
 
-#### Expected Result
+## ✅ Expected Result
 - The system should reject the password or prevent additional character input
 - A validation message should be displayed indicating the maximum allowed password length
