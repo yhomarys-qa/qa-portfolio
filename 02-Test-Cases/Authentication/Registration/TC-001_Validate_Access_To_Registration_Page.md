@@ -7,4 +7,5 @@
 4. Click on "Not yet a customer?"
 
 ## ✅ Expected Result
+
 The system should redirect the user to the registration page with all fields displayed and functioning correctly
