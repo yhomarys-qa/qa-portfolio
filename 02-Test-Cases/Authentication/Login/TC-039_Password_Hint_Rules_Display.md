@@ -1,11 +1,13 @@
 # TC-039 - Verify that the password rules are displayed when clicking the Password Hint button
 
-#### Test Steps
-1. Navigate to the "Forgot Password" form.
-2. Click the Password Hint button.
-3. Observe the password rules displayed.
+## 🧪 Test Steps
+1. Navigate to the "Forgot Password" form
+2. Click the Password Hint button
+3. Observe the password rules displayed
 
-#### Expected Result
+---
+
+## ✅ Expected Result
 - The password rules should be displayed successfully.
 - The following rules should be visible:
   - Contains at least one lowercase character.
