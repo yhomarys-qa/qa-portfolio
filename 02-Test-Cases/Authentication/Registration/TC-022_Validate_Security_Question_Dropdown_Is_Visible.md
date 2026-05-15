@@ -1,4 +1,4 @@
-# TC-022 - Validate Security Question Dropdown Is Visible
+# TC-022 - Validate that the list of security questions is visible
 
 ## 🧪 Test Steps
 1. Open the application
