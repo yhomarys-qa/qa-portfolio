@@ -9,5 +9,5 @@
 ---
 
 ## ✅ Expected Result
-- The password should be changed successfully
-- A success message or redirection should be displayed to the user
+
+The message "Your password was successfully changed." should be displayed to the user
