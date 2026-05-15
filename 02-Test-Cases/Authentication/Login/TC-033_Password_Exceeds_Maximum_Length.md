@@ -4,7 +4,7 @@
 1. Navigate to the "Forgot Password" form
 2. Enter a valid email address
 3. Enter a valid answer in the "Security Question" field
-4. Enter a password containing more than 40 characters in the New Password field
+4. Enter a password containing more than 40 characters in the New Password field (e.g., Testing#2026-03-19%Software2020#025$368200) 
 5. Observe the validation behavior
 
 ---
