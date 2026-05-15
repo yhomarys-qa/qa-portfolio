@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 - The system should reject the password or prevent additional character input
-- A validation message should be displayed indicating the maximum allowed password length
+- A validation message should be displayed indicating the maximum allowed new password length
