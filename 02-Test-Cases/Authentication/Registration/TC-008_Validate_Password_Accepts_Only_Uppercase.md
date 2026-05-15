@@ -12,6 +12,4 @@
 
 ## ✅ Expected Result
 - A validation message should be displayed indicating that the password does not meet the required complexity rules
-- The system should not allow registration with a password containing only letters
-
-The system should validate whether uppercase-only passwords are allowed according to password policy rules
+- The system should not allow registration with a password containing only capital letters
