@@ -1,9 +1,9 @@
-# TC-002 - Validate Successful User Registration
+# TC-002 - Validate Empty Email Field
 
 ## 🧪 Test Steps
 1. Open the application
 2. Access the registration page
-3. Enter a valid email address
+3. Leave the "Email" field empty
 4. Enter a valid password
 5. Enter the same password in the "Repeat Password" field
 6. Select a security question
@@ -12,4 +12,4 @@
 
 ## ✅ Expected Result
 
-The system should successfully create the account and display a confirmation message to the user
+The system should prevent the registration process and display a validation message indicating that the email field is required
