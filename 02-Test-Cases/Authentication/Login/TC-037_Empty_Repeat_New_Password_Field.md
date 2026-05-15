@@ -11,5 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- The system should reject the form submission
-- The validation message "Please repeat your password." should be displayed
+
+The validation message "Please repeat your password." should be displayed
