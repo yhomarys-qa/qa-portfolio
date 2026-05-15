@@ -3,10 +3,10 @@
 ## 🧪 Test Steps
 1. Open the application
 2. Access the registration page
-3. Locate the "Security Question" dropdown field
+3. Locate the "Security Question" field
 
 ---
 
 ## ✅ Expected Result
 
-The "Security Question" dropdown field should be visible and accessible to the user
+The "Security Question" field must be visible and accessible to the user
