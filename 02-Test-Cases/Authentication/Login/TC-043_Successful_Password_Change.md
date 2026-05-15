@@ -4,7 +4,6 @@
 1. Navigate to the "Forgot Password" form
 2. Enter valid data in all required fields
 3. Click the [Change] button
-4. Observe the system behavior
 
 ---
 
