@@ -4,5 +4,6 @@
 1. Navigate to the "Forgot Password" form
 2. Observe the Repeat New Password field
 
-#### Expected Result
-- The Repeat New Password field should be visible and accessible to the user
+## ✅ Expected Result
+
+The Repeat New Password field should be visible and accessible to the user
