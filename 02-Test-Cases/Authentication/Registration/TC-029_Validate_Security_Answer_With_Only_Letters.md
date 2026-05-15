@@ -14,4 +14,4 @@
 
 ## ✅ Expected Result
 
-The system should validate whether answers containing only letters are allowed according to business rules
+The system should accept alphabetic characters in the "Security Answer" field and allow the registration process to continue
