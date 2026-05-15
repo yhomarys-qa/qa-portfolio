@@ -1,6 +1,6 @@
 # TC-030 - Verify that the system accepts passwords with the minimum valid length
 
-## Test Steps
+## 🧪 Test Steps
 1. Navigate to the "Forgot Password" form
 2. Enter a valid email address
 3. Enter a valid answer in the "Security Question" field
