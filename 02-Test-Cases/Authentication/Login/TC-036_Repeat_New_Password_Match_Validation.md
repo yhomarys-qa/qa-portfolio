@@ -11,6 +11,5 @@
 ---
 
 ## ✅ Expected Result
+- An validation message should be displayed indicating that both passwords must match
 - The system should reject the password confirmation
-- An appropriate validation message should be displayed indicating that both passwords must match
-
