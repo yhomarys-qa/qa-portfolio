@@ -9,5 +9,5 @@
 ---
 
 ## ✅ Expected Result
-
-The system should display password requirements or password creation guidelines to assist the user
+- The system should display password requirements  
+- User is informed about valid password criteria before or during input  
