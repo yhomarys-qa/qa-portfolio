@@ -6,8 +6,8 @@
 3. Enter a valid email address
 4. Enter a valid password
 5. Enter the same password in the "Repeat Password" field
-6. Leave the "Security Question" field unselected
-7. Enter a valid security answer
+6. Leave the "Security Question" field blank
+7. Fill in other required fields 
 8. Click on the "Register" button
 
 ---
