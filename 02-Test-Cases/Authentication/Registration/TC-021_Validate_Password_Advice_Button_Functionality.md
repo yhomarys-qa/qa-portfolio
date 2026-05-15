@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the application
 2. Access the registration page
-3. Click the help/password hints button next to the "Repeat Password" field
+3. Click on the password advice/help button below the "Repeat Password" field
 
 ---
 
