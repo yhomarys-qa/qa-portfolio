@@ -7,7 +7,7 @@
 4. Enter a valid password
 5. Enter the same password in the "Repeat Password" field
 6. Select a security question
-7. Enter numeric characters in the "Security Answer" field
+7. Enter numeric characters in the "Security Answer" field 
 8. Click on the "Register" button
 
 ---
