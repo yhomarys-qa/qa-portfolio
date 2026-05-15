@@ -4,6 +4,7 @@
 1. Open the application
 2. Access the registration page
 3. Click on the password advice/help button below the "Repeat Password" field
+4. Observe the password requirements displayed on the screen  
 
 ---
 
