@@ -11,5 +11,5 @@
 ---
 
 ## ✅ Expected Result
-
-A validation message should be displayed indicating that the password must contain at least 8 characters. Registration should not be allowed
+- A validation message should be displayed indicating that the password must contain at least 8 characters
+- Registration should not be allowed
