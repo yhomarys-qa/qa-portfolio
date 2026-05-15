@@ -1,4 +1,4 @@
-# TC-005 – Verify cart icon updates after adding product
+# TC-005 – Verify decreasing product quantity in cart
 
 ## 🧪 Test Steps
 1. Open the application  
