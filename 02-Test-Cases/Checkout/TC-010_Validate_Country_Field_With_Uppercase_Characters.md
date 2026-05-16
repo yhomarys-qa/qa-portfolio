@@ -2,11 +2,9 @@
 
 ## 🧪 Test Steps
 1. Open Add New Address form 
-2. Navigate to the "Add Address" form
-3. Locate the "Country" field
-4. Enter a valid country name using only uppercase characters (e.g., "BRAZIL")
-5. Fill other fields with valid data
-6. Submit the form
+2. Enter a valid country name using only uppercase characters (e.g., "BRAZIL")
+3. Fill other fields with valid data
+4. Submit the form
 
 ---
 
