@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the application
 2. Log in with valid user credentials
-3. Navigate to the product catalog page
+3. Observe the page displayed after successful login
 
 ---
 
