@@ -5,7 +5,8 @@
 2. Navigate to the "Add Address" form
 3. Locate the "Country" field
 4. Enter a valid country name using only uppercase characters (e.g., "BRAZIL")
-5. Submit the form
+5. Fill other fields with valid data
+6. Submit the form
 
 ---
 
