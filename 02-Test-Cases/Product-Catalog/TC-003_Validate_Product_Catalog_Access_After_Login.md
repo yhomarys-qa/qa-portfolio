@@ -1,13 +1,12 @@
-# TC-003 – Verify filtering products by tags
+# TC-003 – Validate Product Catalog Access After Login
 
 ## 🧪 Test Steps
-1. Open the application  
-2. Log in with valid credentials  
-3. Navigate to the Product Catalog page  
-4. Select any tag from the available tags list  
+1. Open the application
+2. Log in with valid user credentials
+3. Observe the page displayed after successful login
 
 ---
 
 ## ✅ Expected Result
 
-Product list is updated based on the selected tag  
+The system should automatically redirect the user to the product catalog page after login and display the available products
