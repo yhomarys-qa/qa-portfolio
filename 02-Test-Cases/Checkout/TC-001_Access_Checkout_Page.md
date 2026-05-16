@@ -1,12 +1,14 @@
-# TC-001 – Verify Checkout button is visible when cart has products
+# TC-001 – Verify access to checkout page
 
 ## 🧪 Test Steps
 1. Open the application  
 2. Log in with valid credentials  
 3. Add a product to the cart  
 4. Navigate to the cart page  
+5. Click on the "Checkout" button  
 
 ---
 
 ## ✅ Expected Result
-- "Checkout" button is visible when at least one product is in the cart  
+
+User is redirected to the checkout page  
