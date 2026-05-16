@@ -1,14 +1,14 @@
-# TC-012 – Verify Country field accepts valid alphabetic input
+# TC-012 – Verify Name field validation when left empty
 
 ## 🧪 Test Steps
 1. Open Add New Address form
-2. Enter a valid country name (e.g., "Brazil")
-3. Fill all other required fields   
-4. Click on "Submit".
+2. Enter a valid country name
+3. Leave "Name" field empty  
+4. Fill all other required fields  
+5. Click on "Submit"  
 
 ---
 
 ## ✅ Expected Result
-- Input is accepted  
-- Field remains valid 
-
+- "Name" field is highlighted in red  
+- Validation message is displayed (e.g., "Please provide a name") 
