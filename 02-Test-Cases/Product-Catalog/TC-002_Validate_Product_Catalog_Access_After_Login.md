@@ -9,4 +9,4 @@
 
 ## ✅ Expected Result
 
-The system should successfully display the product catalog page after login
+The system should automatically redirect the user to the product catalog page after login and display the available products
