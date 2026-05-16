@@ -1,4 +1,4 @@
-# TC-010 - Validate Country Field With Uppercase Characters
+# TC-010 - Validate the Country field with uppercase letters
 
 ## 🧪 Test Steps
 1. Open the application
