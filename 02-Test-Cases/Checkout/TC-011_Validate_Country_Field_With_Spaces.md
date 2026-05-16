@@ -4,7 +4,7 @@
 1. Open the application
 2. Navigate to the "Add Address" form
 3. Locate the "Country" field
-4. Enter a value containing leading, trailing, and internal spaces (e.g., "  Brazil  ")
+4. Enter the name of a country, including spaces, in the country field (e.g., "New Zealand").
 5. Submit the form.
 
 ## ✅ Expected Result
