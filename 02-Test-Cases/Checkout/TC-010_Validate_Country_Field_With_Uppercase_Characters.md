@@ -4,7 +4,7 @@
 1. Open Add New Address form 
 2. Enter a valid country name using only uppercase characters (e.g., "BRAZIL")
 3. Fill other fields with valid data
-4. Submit the form
+4. Click on "Submit"
 
 ---
 
