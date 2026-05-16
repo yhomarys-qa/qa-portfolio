@@ -12,8 +12,7 @@
 ---
 
 ## ✅ Expected Result
-- All mandatory fields for adding a new address should be visible on the form  
-- All required fields are visible:
+- All mandatory fields for adding a new address should be visible on the form:
   - Country  
   - Name  
   - Mobile Number  
