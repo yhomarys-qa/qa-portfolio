@@ -6,12 +6,13 @@
 3. Add a product to the cart  
 4. Navigate to the cart page  
 5. Click on "Checkout"  
-6. Click on [Add Address] button  
+6. Click on [Add Address] button
+7. Verify that all required fields are visible in the "Add New Address" form
 
 ---
 
 ## ✅ Expected Result
-- "Add New Address" form is displayed  
+- All mandatory fields for adding a new address should be visible on the form  
 - All required fields are visible:
   - Country  
   - Name  
