@@ -1,4 +1,4 @@
-# TC-001 - Validate Country Field With Alphanumeric Characters
+# TC-008 - Validate Country Field With Alphanumeric Characters
 
 ## 🧪 Test Steps
 1. Open the application
