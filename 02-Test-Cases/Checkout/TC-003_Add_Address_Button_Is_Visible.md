@@ -13,5 +13,5 @@
 
 ## ✅ Expected Result
 
-"Add Address" button is visible on the page  
+The "Add Address" button should be visible and accessible on the "Select Address" page
 
