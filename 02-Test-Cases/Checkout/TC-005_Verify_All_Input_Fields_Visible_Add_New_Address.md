@@ -1,4 +1,4 @@
-# TC-005 – Verify all input fields are visible in "Add New Address" form
+# TC-005 – Verify that all required fields are visible in the "Add new address" form
 
 ## 🧪 Test Steps
 1. Open the application  
