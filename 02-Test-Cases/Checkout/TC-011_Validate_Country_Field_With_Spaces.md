@@ -9,9 +9,5 @@
 ---
 
 ## ✅ Expected Result
-The system should handle spaces correctly by:
-- Trimming leading and trailing spaces, and/or
-- Validating the input according to defined business rules
 
-The system should not reject the input solely because of extra spaces unless explicitly required by validation rules.
-
+The system should accept country names containing spaces and process the input correctly according to business rules
