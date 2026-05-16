@@ -1,12 +1,12 @@
-# TC-002 – Validate Product Catalog Access After Login
+# TC-002 – Validate Product Catalog Access From App Icon
 
 ## 🧪 Test Steps
 1. Open the application
-2. Log in with valid user credentials
-3. Observe the page displayed after successful login
+2. Without logging in, click on the application icon in the top navigation bar
+3. Verify that the product catalog page is displayed
 
 ---
 
 ## ✅ Expected Result
 
-The system should automatically redirect the user to the product catalog page after login and display the available products
+The system should allow access to the product catalog page via the app icon, even without user authentication
