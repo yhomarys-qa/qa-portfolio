@@ -1,4 +1,4 @@
-# TC-017 - Validate Checkout Button Functionality
+# TC-017 - Validate [Checkout] Button Functionality
 
 ## 🧪 Test Steps
 1. Open the application
