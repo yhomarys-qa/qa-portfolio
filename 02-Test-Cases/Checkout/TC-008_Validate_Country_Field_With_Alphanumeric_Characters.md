@@ -2,7 +2,7 @@
 
 ## 🧪 Test Steps
 1. Open Add New Address form  
-2. Enter alphanumeric characters in the "Country" field (e.g., "Br4z1l123") 
+2. Enter alphanumeric characters in the "Country" field (e.g., "Braz0123") 
 3. Fill all other required fields  
 4. Click on "Submit"  
 
