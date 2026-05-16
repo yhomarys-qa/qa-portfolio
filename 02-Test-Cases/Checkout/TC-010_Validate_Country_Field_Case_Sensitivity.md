@@ -7,11 +7,10 @@
 4. Enter the same country name in uppercase (e.g., "BRAZIL") and submit
 5. Repeat the test using lowercase (e.g., "brazil")
 6. Compare the system behavior/results
+
 ---
 
 ## ✅ Expected Result
 The system should handle uppercase and lowercase inputs consistently, either:
 - Treating both values as equivalent, or
 - Applying a defined normalization rule (e.g., converting to a standard format)
-
-The behavior should remain consistent and not cause validation errors based solely on letter casing.
