@@ -1,4 +1,4 @@
-# TC-016 - Validate Checkout Button Is Visible
+# TC-016 - Validate Checkout Button Is Visible 
 
 ## 🧪 Test Steps
 1. Open the application
