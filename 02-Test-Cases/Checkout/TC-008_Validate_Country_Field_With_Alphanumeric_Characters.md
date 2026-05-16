@@ -1,11 +1,12 @@
 # TC-008 - Validate Country Field With Alphanumeric Characters
 
 ## 🧪 Test Steps
-1. Open the application
-2. Navigate to the "Add Address" form
-3. Locate the "Country" field
-4. Enter alphanumeric characters (e.g., "Br4z1l123") in the "Country" field
+1. Navigate to the "Add Address" form
+2. Enter alphanumeric characters (e.g., "Br4z1l123") in the "Country" field
+3. Fill all other required fields
+4. 
 5. Submit the form
+
 
 ---
 
