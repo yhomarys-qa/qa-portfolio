@@ -6,7 +6,8 @@
 3. Add a product to the cart  
 4. Navigate to the cart page  
 5. Click on "Checkout"  
-6. Navigate to "Select an address" page  
+6. Navigate to "Select an address" page
+7. Verify if the "Add Address" button is visible on the page
 
 ---
 
