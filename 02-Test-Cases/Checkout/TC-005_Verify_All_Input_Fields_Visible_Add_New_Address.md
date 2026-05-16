@@ -12,7 +12,7 @@
 
 ## ✅ Expected Result
 - "Add New Address" form is displayed  
-- All input fields are visible:
+- All required fields are visible:
   - Country  
   - Name  
   - Mobile Number  
