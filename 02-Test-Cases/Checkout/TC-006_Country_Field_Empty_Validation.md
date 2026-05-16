@@ -1,4 +1,4 @@
-# TC-006 – Verify Country field validation when left empty
+# TC-006 – Validate empty Country field submission
 
 ## 🧪 Test Steps
 1.  Navigate to Add New Address form  
