@@ -1,4 +1,4 @@
-# TC-003 – Verify "Add Address" button is visible on Select Address page
+# TC-003 – Verify [Add Address] button is visible on Select Address page
 
 ## 🧪 Test Steps
 1. Open the application  
