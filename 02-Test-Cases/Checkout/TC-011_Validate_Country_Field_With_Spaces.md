@@ -4,7 +4,7 @@
 1. Open Add New Address form 
 2. Enter the name of a country, including spaces, in the country field (e.g., "New Zealand")
 4. Fill other fields with valid data
-5. Submit the form.
+5. Click on "Submit"
 
 ---
 
