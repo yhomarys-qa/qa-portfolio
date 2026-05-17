@@ -7,7 +7,6 @@
 4. Click on any product displayed in the catalog
 5. Enter a comment containing uppercase and lowercase characters
 6. Submit the comment
-7. Observe the system behavior
 
 ---
 
