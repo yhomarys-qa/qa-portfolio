@@ -1,4 +1,4 @@
-# TC-012 - Validate Close Button Visibility For Unauthenticated User
+# TC-012 - Validate [Close] Button Visibility For Unauthenticated User
 
 ## 🧪 Test Steps
 1. Open the application
