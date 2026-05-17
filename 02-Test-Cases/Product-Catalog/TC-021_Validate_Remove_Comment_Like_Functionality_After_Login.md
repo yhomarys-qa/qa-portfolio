@@ -8,7 +8,6 @@
 5. Locate a user comment in the reviews or comments section
 6. Click on the like icon associated with the comment
 7. Click again on the like icon to remove the like
-8. Observe the system behavior
 
 ---
 
