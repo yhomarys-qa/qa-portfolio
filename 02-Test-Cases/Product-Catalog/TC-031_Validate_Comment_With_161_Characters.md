@@ -5,10 +5,11 @@
 2. Log in with valid credentials
 3. Navigate to any product
 4. Enter a comment with 161 characters
-5. Submit the comment
+5. Observe the submit button behavior
+6. Attempt to submit the comment
 
 ---
 
 ## ✅ Expected Result
-
-The system should reject the comment because it exceeds the maximum allowed limit of 160 characters
+- The system should prevent the comment from being submitted when it exceeds 160 characters
+- No error message is displayed, and the submission action is blocked
