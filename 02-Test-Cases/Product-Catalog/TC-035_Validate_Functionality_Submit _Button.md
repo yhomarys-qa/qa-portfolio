@@ -1,4 +1,4 @@
-# TC-035 - Validate the functionality of the Submit Comment button
+# TC-035 - Validate the functionality of the [Submit] Comment button
 
 ## 🧪 Test Steps
 1. Open the application
