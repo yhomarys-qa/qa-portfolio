@@ -4,8 +4,7 @@
 1. Open the application
 2. Do not log in
 3. Access the product catalog page
-4. Click on any product
-5. Observe the displayed product image
+4. Observe the displayed product image
 
 ---
 
