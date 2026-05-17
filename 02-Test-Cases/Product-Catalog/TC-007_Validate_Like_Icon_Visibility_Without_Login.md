@@ -1,4 +1,4 @@
-# TC-007 – Validate Product Like Icon Visibility Without Login
+# TC-007 – Validate Like Icon Visibility Without Login
 
 ## 🧪 Test Steps
 1. Open the application
