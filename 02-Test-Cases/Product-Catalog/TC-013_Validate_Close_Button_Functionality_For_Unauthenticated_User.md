@@ -1,4 +1,4 @@
-# TC-013 - Validate Close Button Functionality For Unauthenticated User
+# TC-013 - Validate [Close] Button Functionality For Unauthenticated User
 
 ## 🧪 Test Steps
 1. Open the application
