@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 
-The system should validate whether 1 character is accepted or rejected according to business rules
+The system should allow submission of a comment containing 1 character
