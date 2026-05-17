@@ -12,4 +12,4 @@
 
 ## ✅ Expected Result
 
-The system should process the like action correctly for non-authenticated users according to the application rules
+The system should not allow non-authenticated users to interact with the like functionality
