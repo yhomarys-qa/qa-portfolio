@@ -6,7 +6,6 @@
 3. Click on the application icon in the top navigation bar
 4. Click on any product displayed in the catalog
 5. Attempt to enter and submit a comment
-6. Observe the system behavior
 
 ---
 
