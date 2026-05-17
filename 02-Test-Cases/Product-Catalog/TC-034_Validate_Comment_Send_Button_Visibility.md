@@ -1,4 +1,4 @@
-# TC-034 - Validate Comment [Send] Button Visibility
+# TC-034 - Validate Comment Send Button Visibility
 
 ## 🧪 Test Steps
 1. Open the application
