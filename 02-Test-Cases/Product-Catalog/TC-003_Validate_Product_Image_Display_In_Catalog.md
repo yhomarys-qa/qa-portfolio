@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the application
 2. Do not log in
-3. Access the product catalog page
+3. Click on the application icon in the top navigation bar
 4. Observe the product cards displayed in the catalog
 5. Verify that all product images are displayed
 
