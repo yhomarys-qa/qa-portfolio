@@ -1,11 +1,10 @@
-# TC-004 – Validate Product Description Display Without Login
+# TC-004 – Validate the display of product descriptions without logging in
 
 ## 🧪 Test Steps
 1. Open the application
 2. Do not log in
 3. Access the product catalog page
-4. Click on any product
-5. Observe the displayed product description
+4. see the product descriptions displayed
 
 ---
 
