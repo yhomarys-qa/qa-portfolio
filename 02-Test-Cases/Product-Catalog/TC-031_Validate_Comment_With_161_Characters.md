@@ -11,5 +11,5 @@
 ---
 
 ## ✅ Expected Result
-- The system should prevent the comment from being submitted when it exceeds 160 characters
-- No error message is displayed, and the submission action is blocked
+
+The system should prevent the comment from being submitted when it exceeds 160 characters, and the submission action is blocked
