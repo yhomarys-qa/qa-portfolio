@@ -2,9 +2,10 @@
 
 ## 🧪 Test Steps
 1. Open the application
-2. Access the product catalog page
-3. Observe the product cards displayed in the catalog
-4. Verify that each product card displays a product image
+2. Log in with valid user credentials
+3. Access the product catalog page
+4. Observe the product cards displayed in the catalog
+5. Verify that each product card displays a product image
 
 ---
 
