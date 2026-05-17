@@ -7,7 +7,6 @@
 4. Click on any product displayed in the catalog
 5. Locate a user comment in the reviews or comments section
 6. Click on the like icon associated with the comment
-7. Observe the system behavior
 
 ---
 
