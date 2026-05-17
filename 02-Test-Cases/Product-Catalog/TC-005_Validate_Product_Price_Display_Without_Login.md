@@ -1,4 +1,4 @@
-# TC-005 – Validate Product Price Display In Catalog
+# TC-005 – Validate Product Price Display Without Login
 
 ## 🧪 Test Steps
 1. Open the application
@@ -11,4 +11,4 @@
 
 ## ✅ Expected Result
 
-The system should display all product prices correctly, including the currency symbol, in the product catalog
+The system should display all product prices correctly, including the corresponding currency symbol, in the product catalog without requiring user authentication
