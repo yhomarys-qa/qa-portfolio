@@ -5,8 +5,7 @@
 2. Log in with valid credentials
 3. Navigate to any product
 4. Enter a comment with 161 characters
-5. Observe the submit button behavior
-6. Attempt to submit the comment
+5. Attempt to submit the comment
 
 ---
 
