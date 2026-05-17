@@ -1,4 +1,4 @@
-# TC-003 – Validate Product Image Display Without Login
+# TC-003 – Validate the display of product images without logging in
 
 ## 🧪 Test Steps
 1. Open the application
