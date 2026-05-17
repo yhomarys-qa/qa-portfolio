@@ -1,4 +1,4 @@
-# TC-004 – Validate Product Name Display In Catalog
+# TC-004 – Validate Product Description Display Without Login
 
 ## 🧪 Test Steps
 1. Open the application
