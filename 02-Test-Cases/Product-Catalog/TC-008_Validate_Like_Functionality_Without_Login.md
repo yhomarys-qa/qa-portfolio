@@ -6,7 +6,6 @@
 3. Click on the application icon in the top navigation bar
 4. Click on any product displayed in the catalog
 5. Click on the like icon
-6. Observe the system behavior
 
 ---
 
