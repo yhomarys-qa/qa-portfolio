@@ -1,4 +1,4 @@
-# TC-008 – Validate Product Like Functionality Without Login
+# TC-008 – Validate Like Functionality Without Login
 
 ## 🧪 Test Steps
 1. Open the application
