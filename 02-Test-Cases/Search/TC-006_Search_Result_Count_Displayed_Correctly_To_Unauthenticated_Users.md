@@ -1,4 +1,4 @@
-# TC-0096 - Search Result Count Displayed Correctly to Unauthenticated Users
+# TC-006 - Search Result Count Displayed Correctly to Unauthenticated Users
 
 ## 🧪 Test Steps
 1. Perform a valid product search without logging into the application
