@@ -1,4 +1,4 @@
-# TC-002 - Search Field Opened from Icon to Authenticated Users
+# TC-002 - Open Search Field from Icon for Authenticated User
 
 ## 🧪 Test Steps
 1. Log into the application
