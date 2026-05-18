@@ -1,4 +1,4 @@
-# TC-00510 - Search with Numeric Values to Unauthenticated Users
+# TC-0010 - Search with Numeric Values to Unauthenticated Users
 
 ## 🧪 Test Steps
 1. Open the search field
