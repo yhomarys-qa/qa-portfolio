@@ -3,7 +3,8 @@
 ## 🧪 Test Steps
 1. Log in to the application
 2. Navigate to the product catalog page
-3. Click the ">" pagination button
+3. Scroll to the bottom of the page
+4. Click the ">" pagination button
 
 ---
 
