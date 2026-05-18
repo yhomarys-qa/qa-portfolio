@@ -2,7 +2,7 @@
 
 ## 🧪 Test Steps
 1. Open the search field
-2. Enter a product name using uppercase letters (example: "SMOOTHIE")
+2. Enter a product name using uppercase letters (example: "ORANGE")
 3. Click the [search] button.
 
 ---
