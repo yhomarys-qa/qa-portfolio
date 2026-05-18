@@ -1,4 +1,4 @@
-# TC01 - Display Search Icon to Unauthenticated Users
+# TC-001 - Display Search Icon to Unauthenticated Users
 
 ## 🧪 Test Steps
 1. Open the application without logging in
