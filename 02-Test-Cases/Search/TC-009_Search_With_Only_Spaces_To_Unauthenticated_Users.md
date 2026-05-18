@@ -9,4 +9,4 @@
 
 ## ✅ Expected Result
 
-The system must display the "Search Results -" page
+The system must block the search action when only spaces are entered in the search field
