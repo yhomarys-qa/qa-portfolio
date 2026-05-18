@@ -1,4 +1,4 @@
-# TC-008 - Search with Word Spaces to Unauthenticated Users
+# TC-008 - Search with Spaces Between Words to Unauthenticated Users
 
 ## 🧪 Test Steps
 1. Open the search field
