@@ -2,7 +2,7 @@
 
 ## 🧪 Test Steps
 1. Open the search field
-2. Enter a valid product name (example: "Apple Juice")
+2. Enter a valid product name (example: "apple")
 3. Click the search button
 
 ---
