@@ -9,4 +9,4 @@
 
 ## ✅ Expected Result
 
-The system must execute the search and display a "No results found" message when no products are associated with numeric values
+The system must execute the search and display a "No results found" message
