@@ -9,4 +9,4 @@
 
 ## ✅ Expected Result
 
-The system must display a "No results found" message if no products are associated with the entered price
+The system must display a "No results found" message
