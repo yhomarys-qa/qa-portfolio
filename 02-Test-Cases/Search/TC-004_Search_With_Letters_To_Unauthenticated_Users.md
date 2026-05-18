@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the search field
 2. Enter letters in the search field (example: "Banana")
-3. Click the search button
+3. Click the [search] button
 
 ---
 
