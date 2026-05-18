@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the search field
 2. Enter numeric values in the search field (example: "123" or "89.99")
-3. Click the search button
+3. Click the [search] button
 
 ---
 
