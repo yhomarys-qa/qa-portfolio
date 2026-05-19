@@ -1,4 +1,4 @@
-# TC-005 - Display Product Image to Unauthenticated Users
+# TC-005 - Display Searched Product Image to Unauthenticated Users
 
 ## 🧪 Test Steps
 1. Search for a valid product
@@ -8,4 +8,4 @@
 
 ## ✅ Expected Result
 
-The product image must be displayed correctly
+The searched product image must be displayed correctly
