@@ -1,4 +1,4 @@
-# TC-006 - Validate Product Font Style to Unauthenticated Users
+# TC-006 - Validate Search Result Font Style to Unauthenticated Users
 
 ## 🧪 Test Steps
 1. Search for a valid product
