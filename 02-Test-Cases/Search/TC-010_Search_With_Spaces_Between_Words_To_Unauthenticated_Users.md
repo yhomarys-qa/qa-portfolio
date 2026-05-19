@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the search field
 2. Enter spaces between words in the search field (example: "Strawberry Juice")
-3. Click the [search] button
+3. Press the Enter key
 
 ---
 
