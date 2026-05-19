@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the search field
 2. Enter a product name using uppercase and lowercase letters (example: "Carrot")
-3. Click the [search] button
+3. Press the Enter key
 
 ---
 
