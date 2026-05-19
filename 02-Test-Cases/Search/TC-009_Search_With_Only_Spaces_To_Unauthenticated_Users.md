@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the search field
 2. Enter only spaces in the search field
-3. Click the [search] button
+3. Press the Enter key
 
 ---
 
