@@ -2,7 +2,7 @@
 
 ## 🧪 Test Steps
 1. Open the search field
-2. Enter a product name using mixed uppercase and lowercase letters (example: "AppLo")
+2. Enter a valid product name (example: "apple")
 3. Press the Enter key
 4. Observe the product price displayed in the search results
 
