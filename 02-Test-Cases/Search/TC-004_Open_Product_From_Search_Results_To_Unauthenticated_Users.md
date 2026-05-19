@@ -4,10 +4,10 @@
 1. Open the search field
 2. Search for a valid product (example: "apple")
 3. Press the Enter key
-4. Click one product from the search results
+4. Observe the displayed product information
 
 ---
 
 ## ✅ Expected Result
 
-The selected product page must open successfully
+The searched product must be displayed correctly in the search results
