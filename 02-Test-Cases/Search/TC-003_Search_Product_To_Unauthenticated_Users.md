@@ -3,7 +3,7 @@
 ## 🧪 Test Steps
 1. Open the search field
 2. Enter a valid product name (example: "apple")
-3. Clique no botão [pesquisar]
+3. Press the Enter key
 
 ---
 
