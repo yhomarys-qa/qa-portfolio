@@ -10,4 +10,4 @@
 
 ## ✅ Expected Result
 
-The product text must be displayed with consistent formatting
+The product text must be displayed with consistent font size, capitalization, and alignment
