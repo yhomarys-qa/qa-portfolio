@@ -10,4 +10,4 @@
 
 ## ✅ Expected Result
 
-The product text must be displayed with visual uniformity and without display issues
+The product text must be displayed with visual uniformity and without display issues 
