@@ -10,4 +10,4 @@
 
 ## ✅ Expected Result
 
-The product price must be displayed correctly
+The product price must be displayed clearly with currency information and associated with the correct product (example: 10.99$)
