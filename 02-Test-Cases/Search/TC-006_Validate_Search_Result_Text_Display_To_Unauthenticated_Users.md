@@ -1,0 +1,13 @@
+# TC-006 - Validate Search Result Text Display to Unauthenticated Users
+
+## 🧪 Test Steps
+1. Open the search field
+2. Enter a valid product name (example: "apple")
+3. Press the Enter key
+2. Observe the product text displayed in the search results
+
+---
+
+## ✅ Expected Result
+
+The product text must be displayed with visual uniformity and without display issues
