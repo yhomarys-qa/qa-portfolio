@@ -1,4 +1,4 @@
-# TC-007 - Display Related Search Results to Unauthenticated Users
+# TC-007 - Validate Add to Basket Button in Search Results to Unauthenticated Users
 
 ## 🧪 Test Steps
 1. Open the search field
@@ -10,4 +10,4 @@
 
 ## ✅ Expected Result
 
-The system must display only products related to the searched keyword
+The "Add to Basket" button must be displayed correctly
