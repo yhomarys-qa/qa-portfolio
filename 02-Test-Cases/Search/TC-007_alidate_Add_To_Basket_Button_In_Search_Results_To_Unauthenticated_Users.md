@@ -4,7 +4,7 @@
 1. Open the search field
 2. Search for a valid product keyword (example: "apple")
 3. Press the Enter key
-4. Observe the displayed search results
+4. Observe the "Add to Basket" button displayed in the search results
 
 ---
 
