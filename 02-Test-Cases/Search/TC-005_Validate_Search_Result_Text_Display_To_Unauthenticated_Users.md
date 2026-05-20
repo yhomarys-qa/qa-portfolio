@@ -1,4 +1,4 @@
-# TC-005 - Validate Search Result Text Formatting to Unauthenticated Users
+# TC-005 - Validate Search Result Text Display to Unauthenticated Users
 
 ## 🧪 Test Steps
 1. Open the search field
@@ -10,4 +10,4 @@
 
 ## ✅ Expected Result
 
-The product text must be displayed with consistent font size, capitalization, and alignment
+The product text must be displayed with visual uniformity and without display issues
